@@ -58,6 +58,17 @@ Fasen: 🌱 geplant / 💧 sluimerend / 🔥 escalerend / 💥 climax / 🍂 res
 
 ---
 
+## Publicatieworkflow
+
+1. Fragment schrijven → opslaan als `bijbel/fragmenten/dag-XXX-draft.md`
+2. Fragment sturen naar Peter via Telegram (chat_id: 8659012187)
+3. Peter proeflezen — taalcontrole, geen inhoudelijke sturing
+4. Na "ok" van Peter: publiceren naar site + draft hernoemen naar `dag-XXX.md` + `stand.md` bijwerken
+
+Telegram-bericht: fragment volledig in de body, voorafgegaan door `LOAM — DAG XXX (draft)`.
+
+---
+
 ## Stijlgids
 
 - **Perspectief:** derde persoon beperkt — primair Mara, occasioneel Elias
