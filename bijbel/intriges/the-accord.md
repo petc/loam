@@ -1,6 +1,6 @@
 # Intrige: The Accord — wat schuift er?
 
-**Fase:** 🌱 geplant
+**Fase:** 💧 sluimerend
 
 ## Kern
 

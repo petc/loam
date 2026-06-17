@@ -57,4 +57,25 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 
 ## Verschijningen
 
-*(wordt aangevuld per fragment)*
+| Fragment | Moment |
+|----------|--------|
+| 001 | Introductie. Tuin, wristband 06:14, wied trekken. Geluid voorbij het hek. Hij wacht. |
+| 003 | Vindt de voetafdruk — kleiner dan zijn voet. Heron. "Mildly comforting." |
+| 005 | Ziet Mara bij de scheur. Werkt door. De heron keert terug. Ze spreekt. Hij stopt met werken. |
+| 006 | Loopt naar het hek. "Bronze fennel." — "If you wanted to come again. In November it looks like nothing." |
+| 007 | Vindt het zaadpakje. *Lathyrus odoratus.* Hij zal ze planten of niet — dat is ook een antwoord. |
+| 008 | Plant de zoete erwten. Twee vingers, zacht, "de manier waarop je iets sluit." |
+| 010 | Opent de poort. Legt uit wat er staat en waarom. De klimroos: "I found it. I planted it without reading the label." |
+| 012 | Vertelt over het allocatiemodel. "I had done what was comfortable." |
+| 014 | Wisselen namen. Ze vertelt over ZVA. Hij: "We have time." Zegt *we* voor het eerst. |
+| 016 | De klimroos verandert richting. Hij denkt aan trots en zijn omslag. |
+| 018 | Op de bank op zondag. Ze zegt "that's not enough." Hij: "It isn't. It's what I have." |
+| 020 | Realiseert boos te zijn — voor het eerst in jaren. Seedlings foggen het glas. |
+| 022 | Vijf zoete erwten ontkiemen. "Someone brought these here." |
+| 024 | Zaden sorteren. Owen's pot. "I've been waiting to be asked that for eleven years." |
+| 026 | Vertelt over compounding-mechanisme. "I want you to have it." Ze zegt *okay*. |
+| 028 | Plant uiensets — voor zichzelf, niet voor de tuin. Denkt aan haar document. |
+| 030 | Zoete erwten testen de draad. "The interim is the point." |
+| 032 | Ze zegt ze gaat het sturen. Hij: "Yes." Ze vertrekt. Hij werkt door.  |
+
+**Gezondheid:** nog niet in het verhaal geplant. Begint subtiel vanaf dag ~35. Nooit aangekonkigd — alleen kleine details die de lezer later zal herkennen.

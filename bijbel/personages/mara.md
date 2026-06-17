@@ -57,4 +57,25 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 
 ## Verschijningen
 
-*(wordt aangevuld per fragment)*
+| Fragment | Moment |
+|----------|--------|
+| 002 | Introductie. Werkplek, queue. Item 31: Sector 9. Ze sluit de flag. "She is very good at not thinking about things." |
+| 004 | Loopt naar Sector 9. Staat aan de scheur. Ziet groen. Ziet Elias. Blijft staan. |
+| 005 | Spreekt — hij hoort het niet. Ze blijft ook als hij stopt met werken. |
+| 006 | Ze vroeg "What is that?" — ze wist het zelf niet voor ze het zei. |
+| 009 | Terug op de werkplek. Petra vraagt. "They're resolved." Staat aan het raam. |
+| 011 | Eerste keer in de tuin via de poort. Hand op de grond. "I'm not sure the data is the same thing as the something." |
+| 013 | Vindt ZVA in database — Division 4, 14 januari. Ze besluit het hem te zeggen. |
+| 015 | Celia: "When have they not?" Mara eet rijst. Denkt aan iemand die blijft. |
+| 017 | Leest publieke ZVA-documenten thuis. *Resident transition protocols.* Ze leest alles. |
+| 018 | Vertelt hem op zondag. "That's not enough." |
+| 019 | Op de tram. Twee haltes te vroeg afgestapt. *Residual.* |
+| 021 | Database: secundaire review voltooid. Expedited timeline. Ze zoekt verder. |
+| 023 | Trekt het originele ZVA-verzoek. Northern Expansion, Phase 2. Autorisatie geredigeerd. |
+| 025 | Telt de mensen in Sector 9. De man bij het waterstation. *Knock on 14.* |
+| 027 | Supervisor waarschuwt haar. Ze opent een nieuw document. Schrijft. |
+| 029 | Publiek archief. Negen gesloopte wijken. Namen. *Lost to follow-up.* |
+| 031 | Leest haar document van voor naar achter. *I can.* Ze gaat naar Sector 9. |
+| 032 | Aan de bank met notitieboek. "I'm going to send it." Ze vertrekt. |
+
+**Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

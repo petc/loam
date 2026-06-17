@@ -29,9 +29,9 @@ Een vrouw vindt hem.
 
 | Naam | Status | Bestand | Laatste verschijning |
 |------|--------|---------|----------------------|
-| Elias Voss | actief — in de tuin | [elias.md](personages/elias.md) | — |
-| Mara | actief — zoekende | [mara.md](personages/mara.md) | — |
-| Lena Voss | afwezig — in het systeem | [lena.md](personages/lena.md) | — |
+| Elias Voss | actief — in de tuin | [elias.md](personages/elias.md) | dag 032 |
+| Mara | actief — zoekende | [mara.md](personages/mara.md) | dag 032 |
+| Lena Voss | afwezig — nog niet in verhaal | [lena.md](personages/lena.md) | — (gepland ~dag 050) |
 
 ---
 
@@ -39,9 +39,9 @@ Een vrouw vindt hem.
 
 | Naam | Status | Bestand | Laatste vermelding |
 |------|--------|---------|-------------------|
-| De Tuin | actief — verborgen | [de-tuin.md](locaties/de-tuin.md) | — |
-| De Stad | achtergrond | [de-stad.md](locaties/de-stad.md) | — |
-| Sector 9 | achtergrond — de rand | [sector-9.md](locaties/sector-9.md) | — |
+| De Tuin | actief — open lucht, spoorwegterrein | [de-tuin.md](locaties/de-tuin.md) | dag 032 |
+| De Stad | achtergrond | [de-stad.md](locaties/de-stad.md) | dag 025 |
+| Sector 9 | escalerend — ZVA voltooid | [sector-9.md](locaties/sector-9.md) | dag 029 |
 
 ---
 
@@ -49,10 +49,10 @@ Een vrouw vindt hem.
 
 | Naam | Fase | Bestand |
 |------|------|---------|
-| The Accord — wat schuift er? | 🌱 geplant | [the-accord.md](intriges/the-accord.md) |
+| The Accord — wat schuift er? | 💧 sluimerend | [the-accord.md](intriges/the-accord.md) |
 | Lena — waar is ze? | 🌱 geplant | [lena-voss.md](intriges/lena-voss.md) |
 | Mara — gestuurd of gevonden? | 🌱 geplant | [mara-gestuurd.md](intriges/mara-gestuurd.md) |
-| Elias — wat heeft hij gedaan? | 🌱 geplant | [elias-verleden.md](intriges/elias-verleden.md) |
+| Elias — wat heeft hij gedaan? | 💧 sluimerend | [elias-verleden.md](intriges/elias-verleden.md) |
 
 Fasen: 🌱 geplant / 💧 sluimerend / 🔥 escalerend / 💥 climax / 🍂 resolutie
 
