@@ -521,13 +521,10 @@ body {
 }
 .site-footer a:hover { color: var(--accent); }
 
-/* On cover: footer sits below the dark section, inherits page background */
+/* On cover: hide footer — cover is full-screen, copyright lives on all other pages */
 .cover ~ .site-footer {
-  background: #0E0C09;
-  color: #4A4036;
+  display: none;
 }
-.cover ~ .site-footer a { color: #4A4036; }
-.cover ~ .site-footer a:hover { color: #9EB39C; }
 
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 600px) {
