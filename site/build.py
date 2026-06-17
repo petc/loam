@@ -36,7 +36,7 @@ SITE_CONFIG = {
     "analytics_snippet": '<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q95S8MKHVG"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-Q95S8MKHVG");</script>',
 
     # Ko-fi or similar. Leave empty to hide the support line.
-    "kofi_url": "",
+    "kofi_url": "https://ko-fi.com/reginaldashfordclaes",
 }
 
 # ── Markdown setup ────────────────────────────────────────────────────────────
