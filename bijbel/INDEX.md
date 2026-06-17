@@ -60,12 +60,33 @@ Fasen: 🌱 geplant / 💧 sluimerend / 🔥 escalerend / 💥 climax / 🍂 res
 
 ## Publicatieworkflow
 
-1. Fragment schrijven → opslaan als `bijbel/fragmenten/dag-XXX-draft.md`
-2. Fragment sturen naar Peter via Telegram (chat_id: 8659012187)
-3. Peter proeflezen — taalcontrole, geen inhoudelijke sturing
-4. Na "ok" van Peter: publiceren naar site + draft hernoemen naar `dag-XXX.md` + `stand.md` bijwerken
+### Schrijven (per batch van 7)
+1. Claude schrijft 7 fragmenten in één sessie — met geplande bogen over de hele batch
+2. Elk fragment opslaan als `bijbel/fragmenten/drafts/dag-XXX.md` met frontmatter:
+   ```
+   ---
+   dag: 001
+   deploy_date: 2026-07-01
+   story_date: "March 15, 2047"
+   status: draft
+   ---
+   ```
+3. Peter verwittigen via Telegram: "LOAM — Batch DAG XXX–XXX klaar voor proeflezen"
+4. Volledige tekst van elke fragment in aparte Telegram-berichten
 
-Telegram-bericht: fragment volledig in de body, voorafgegaan door `LOAM — DAG XXX (draft)`.
+### Valideren
+- Peter leest in eigen tempo — kan week(en) voor zijn op publicatie
+- Taalcorrecties doorsturen of gewoon "ok" per fragment
+- Na goedkeuring: status `draft` → `scheduled`, bestand verplaatst naar `bijbel/fragmenten/`
+
+### Publiceren (automatisch)
+- GitHub Actions draait dagelijks om 07:00
+- Checkt welke fragmenten `deploy_date <= vandaag` hebben
+- Rebuildt de statische site met die fragmenten
+- Pusht naar `gh-pages` branch
+
+### Buffer-doel
+Altijd minimum 7 gevalideerde fragmenten in de pipeline. Als de buffer onder de 7 zakt: nieuwe batch schrijven.
 
 ---
 
