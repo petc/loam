@@ -33,7 +33,7 @@ SITE_CONFIG = {
     # Plausible: '<script defer data-domain="yourdomain.com" src="https://plausible.io/js/script.js"></script>'
     # GoatCounter: '<script data-goatcounter="https://YOURCODE.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
     # Leave empty until domain is set up.
-    "analytics_snippet": "",
+    "analytics_snippet": '<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q95S8MKHVG"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-Q95S8MKHVG");</script>',
 
     # Ko-fi or similar. Leave empty to hide the support line.
     "kofi_url": "",
