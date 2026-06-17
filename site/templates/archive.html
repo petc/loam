@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block title %}Archive — LOAM{% endblock %}
+
+{% block content %}
+<header class="page-header">
+  <a class="site-title" href="{{ root }}">L O A M</a>
+  <div class="header-nav">
+    <a href="{{ root }}codex/">Codex</a>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">☽</button>
+  </div>
+</header>
+
+<div class="reading-wrap">
+  <p class="page-title">Archive</p>
+
+  {% if fragments %}
+  <ul class="archive-list">
+    {% for f in fragments %}
+    <li class="archive-item">
+      <a href="{{ root }}day/{{ '%03d' % f.dag }}/">
+        <span class="archive-day">Day {{ '%03d' % f.dag }}</span>
+        <span class="archive-story-date">{{ f.story_date }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p style="font-family:var(--font-serif);font-style:italic;color:var(--text-muted);">
+    No entries published yet.
+  </p>
+  {% endif %}
+</div>
+{% endblock %}

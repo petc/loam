@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}LOAM{% endblock %}
+{% block og_title %}LOAM — A story told one day at a time{% endblock %}
+
+{% block content %}
+<main class="cover">
+  <p class="cover-eyebrow">A serialised story</p>
+  <h1 class="cover-title">LOAM</h1>
+  <div class="cover-rule"></div>
+  <p class="cover-teaser">{{ site_teaser }}</p>
+
+  <div class="cover-cta">
+    {% if latest_dag %}
+    <a class="btn-begin" href="{{ root }}day/{{ '%03d' % latest_dag }}/">
+      {% if total == 1 %}Read Day 001{% else %}Read the latest — Day {{ '%03d' % latest_dag }}{% endif %}
+    </a>
+    <a class="btn-begin" href="{{ root }}day/001/" style="background:#2A2118;color:#E8DFD0;margin-top:0">
+      Start from the beginning
+    </a>
+    {% else %}
+    <p style="font-family:var(--font-serif);font-style:italic;color:#4A4036;">
+      The first entry arrives soon.
+    </p>
+    {% endif %}
+  </div>
+
+  <nav class="cover-nav">
+    {% if total > 0 %}<a href="{{ root }}archive/">Archive</a>{% endif %}
+    <a href="{{ root }}codex/">Codex</a>
+  </nav>
+</main>
+
+<!-- Continue reading banner (shown by JS if localStorage has a saved position) -->
+<a id="continue-banner" class="continue-banner" href="#" data-root="{{ root }}">
+  Continue reading — Day <span></span>
+</a>
+{% endblock %}

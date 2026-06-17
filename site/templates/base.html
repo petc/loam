@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}LOAM{% endblock %}</title>
+  <meta name="description" content="{{ site_teaser }}">
+  <meta property="og:title" content="{% block og_title %}LOAM{% endblock %}">
+  <meta property="og:description" content="{{ site_teaser }}">
+  <meta property="og:type" content="website">
+  <!-- Anti-flash: apply saved theme before first paint -->
+  <script>(function(){var t=localStorage.getItem('loam_theme')||'dark';document.documentElement.setAttribute('data-theme',t);})();</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ root }}static/css/style.css">
+  {% if analytics_snippet %}{{ analytics_snippet | safe }}{% endif %}
+</head>
+<body>
+{% block content %}{% endblock %}
+<footer class="site-footer">
+  <p>© 2026 Peter Cassiers &mdash; <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener license">CC BY-NC-ND 4.0</a></p>
+</footer>
+<script src="{{ root }}static/js/app.js"></script>
+{% block extra_js %}{% endblock %}
+</body>
+</html>

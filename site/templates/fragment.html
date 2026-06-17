@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}Day {{ '%03d' % dag }} — LOAM{% endblock %}
+{% block og_title %}LOAM — Day {{ '%03d' % dag }}{% endblock %}
+
+{% block content %}
+<header class="page-header">
+  <a class="site-title" href="{{ root }}">L O A M</a>
+  <div class="header-nav">
+    <a href="{{ root }}archive/">Archive</a>
+    <a href="{{ root }}codex/">Codex</a>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">☽</button>
+  </div>
+</header>
+
+<div class="reading-wrap">
+  <div class="fragment-meta" id="current-day" data-dag="{{ dag }}">
+    <p class="fragment-day">Day {{ '%03d' % dag }}</p>
+    <p class="fragment-story-date">{{ story_date }}</p>
+  </div>
+
+  <article class="fragment-body">
+    {{ body | safe }}
+  </article>
+
+  <nav class="fragment-nav">
+    <div class="nav-prev">
+      {% if prev_dag %}
+      <a id="nav-prev" href="{{ root }}day/{{ '%03d' % prev_dag }}/">
+        <span class="nav-arrow">←</span> Day {{ '%03d' % prev_dag }}
+      </a>
+      {% endif %}
+    </div>
+    <div class="nav-center">
+      <span class="nav-progress">{{ dag }} / {{ total }}</span>
+    </div>
+    <div class="nav-next">
+      {% if next_dag %}
+      <a id="nav-next" href="{{ root }}day/{{ '%03d' % next_dag }}/">
+        Day {{ '%03d' % next_dag }} <span class="nav-arrow">→</span>
+      </a>
+      {% endif %}
+    </div>
+  </nav>
+
+  {% if total > 1 %}
+  <a class="nav-random" id="nav-random" href="#"
+     data-total="{{ total }}" data-root="{{ root }}">
+    ✦ random day
+  </a>
+  {% endif %}
+
+  {% if kofi_url %}
+  <p class="support-line">
+    If this stays with you, you can <a href="{{ kofi_url }}" target="_blank" rel="noopener">support it here</a>.
+  </p>
+  {% endif %}
+</div>
+{% endblock %}

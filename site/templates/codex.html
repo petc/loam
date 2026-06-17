@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block title %}Codex — LOAM{% endblock %}
+
+{% block content %}
+<header class="page-header">
+  <a class="site-title" href="{{ root }}">L O A M</a>
+  <div class="header-nav">
+    <a href="{{ root }}archive/">Archive</a>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">☽</button>
+  </div>
+</header>
+
+<div class="reading-wrap">
+  <p class="page-title">Codex</p>
+  <p style="font-family:var(--font-serif);font-style:italic;color:var(--text-muted);margin-bottom:2rem;font-size:1rem;">
+    What the story has revealed so far. No more, no less.
+  </p>
+
+  <nav class="codex-tabs">
+    <a class="codex-tab active" data-target="codex-characters" href="#">Characters</a>
+    <a class="codex-tab" data-target="codex-locations" href="#">Locations</a>
+    <a class="codex-tab" data-target="codex-concepts" href="#">Concepts</a>
+  </nav>
+
+  <section id="codex-characters" class="codex-section active">
+    {% if entries.characters %}
+      {% for e in entries.characters %}
+      <div class="codex-entry">
+        <div class="codex-entry-header">
+          <span class="codex-entry-name">{{ e.name }}</span>
+          <span class="codex-first-seen">First seen — Day {{ '%03d' % e.unlocked_by }}</span>
+        </div>
+        <div class="codex-entry-body">{{ e.body | safe }}</div>
+      </div>
+      {% endfor %}
+    {% else %}
+      <p class="codex-empty">No characters revealed yet.</p>
+    {% endif %}
+  </section>
+
+  <section id="codex-locations" class="codex-section">
+    {% if entries.locations %}
+      {% for e in entries.locations %}
+      <div class="codex-entry">
+        <div class="codex-entry-header">
+          <span class="codex-entry-name">{{ e.name }}</span>
+          <span class="codex-first-seen">First seen — Day {{ '%03d' % e.unlocked_by }}</span>
+        </div>
+        <div class="codex-entry-body">{{ e.body | safe }}</div>
+      </div>
+      {% endfor %}
+    {% else %}
+      <p class="codex-empty">No locations revealed yet.</p>
+    {% endif %}
+  </section>
+
+  <section id="codex-concepts" class="codex-section">
+    {% if entries.concepts %}
+      {% for e in entries.concepts %}
+      <div class="codex-entry">
+        <div class="codex-entry-header">
+          <span class="codex-entry-name">{{ e.name }}</span>
+          <span class="codex-first-seen">First seen — Day {{ '%03d' % e.unlocked_by }}</span>
+        </div>
+        <div class="codex-entry-body">{{ e.body | safe }}</div>
+      </div>
+      {% endfor %}
+    {% else %}
+      <p class="codex-empty">No concepts revealed yet.</p>
+    {% endif %}
+  </section>
+</div>
+{% endblock %}
