@@ -98,6 +98,7 @@ Altijd minimum 7 gevalideerde fragmenten in de pipeline. Als de buffer onder de 
 - **The Accord:** verschijnt als opgemaakte systeemblokken — nooit als stem, nooit als karakter
 - **Fragmentnummering:** DAG-001, DAG-002 — geen titels, wel een datumregel in de story-world
 - **Wat vermijden:** heldenmoed, verlossing, toespraken over vrijheid
+- **Taal consistentie:** alle namen — personen, straten, plaatsen — zijn Engelstalig. Geen Nederlandse, Belgische of andere niet-Engelstalige namen invoeren. (Fout: Geert, Tierstraat. Goed: Owen, Meridian Street.)
 
 ---
 
