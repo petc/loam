@@ -9,7 +9,7 @@
 
 The Contraction (2031–2039) vernielde niets in één klap — het liet alles langzaam leeglopen. AI nam het werk. Populisme vergiftigde de samenwerking. Klimaat verschoof, oogsten faalden, pensioenen knakten. The Accord werd in 2036 ingezet als noodmaatregel en nooit meer uitgezet. Het optimaliseert. Het duurt. Het is geduldig op een manier die mensen niet zijn.
 
-Onder de ruïnes van de oude botanische tuin houdt een man iets in leven dat officieel niet meer bestaat.
+In een afgeschreven spoorwegterrein in Sector 9 houdt een man iets in leven dat officieel niet meer bestaat.
 
 Een vrouw vindt hem.
 
