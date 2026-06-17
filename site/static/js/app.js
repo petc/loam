@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const dayEl = document.getElementById('current-day');
   if (dayEl) {
     // On a fragment page: save position
-    localStorage.setItem('loam_last_read', dayEl.dataset.dag);
+    localStorage.setItem('loam_last_read', dayEl.dataset.day);
   } else {
     // On cover page: show continue banner
     const last = localStorage.getItem('loam_last_read');

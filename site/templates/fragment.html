@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
-{% block title %}Day {{ '%03d' % dag }} — LOAM{% endblock %}
-{% block og_title %}LOAM — Day {{ '%03d' % dag }}{% endblock %}
+{% block title %}Day {{ '%03d' % day }} — LOAM{% endblock %}
+{% block og_title %}LOAM — Day {{ '%03d' % day }}{% endblock %}
 
 {% block content %}
 <header class="page-header">
@@ -14,8 +14,8 @@
 </header>
 
 <div class="reading-wrap">
-  <div class="fragment-meta" id="current-day" data-dag="{{ dag }}">
-    <p class="fragment-day">Day {{ '%03d' % dag }}</p>
+  <div class="fragment-meta" id="current-day" data-day="{{ day }}">
+    <p class="fragment-day">Day {{ '%03d' % day }}</p>
     <p class="fragment-story-date">{{ story_date }}</p>
   </div>
 
@@ -25,19 +25,19 @@
 
   <nav class="fragment-nav">
     <div class="nav-prev">
-      {% if prev_dag %}
-      <a id="nav-prev" href="{{ root }}day/{{ '%03d' % prev_dag }}/">
-        <span class="nav-arrow">←</span> Day {{ '%03d' % prev_dag }}
+      {% if prev_day %}
+      <a id="nav-prev" href="{{ root }}day/{{ '%03d' % prev_day }}/">
+        <span class="nav-arrow">←</span> Day {{ '%03d' % prev_day }}
       </a>
       {% endif %}
     </div>
     <div class="nav-center">
-      <span class="nav-progress">{{ dag }} / {{ total }}</span>
+      <span class="nav-progress">{{ day }} / {{ total }}</span>
     </div>
     <div class="nav-next">
-      {% if next_dag %}
-      <a id="nav-next" href="{{ root }}day/{{ '%03d' % next_dag }}/">
-        Day {{ '%03d' % next_dag }} <span class="nav-arrow">→</span>
+      {% if next_day %}
+      <a id="nav-next" href="{{ root }}day/{{ '%03d' % next_day }}/">
+        Day {{ '%03d' % next_day }} <span class="nav-arrow">→</span>
       </a>
       {% endif %}
     </div>

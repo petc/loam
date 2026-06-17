@@ -55,7 +55,7 @@ def process_accord_blocks(text):
 
 # ── Fragment loading ──────────────────────────────────────────────────────────
 def load_fragments():
-    """Load all scheduled fragments with deploy_date <= today, sorted by dag."""
+    """Load all scheduled fragments with deploy_date <= today, sorted by day."""
     fragments = []
     if not FRAGMENTS.exists():
         return fragments
@@ -67,22 +67,22 @@ def load_fragments():
         deploy_date = post.get("deploy_date")
         if deploy_date and date.fromisoformat(str(deploy_date)) > TODAY:
             continue
-        dag = int(post.get("dag", 0))
-        if not dag:
+        day = int(post.get("day", 0))
+        if not day:
             continue
         body_raw = process_accord_blocks(post.content)
         fragments.append({
-            "dag":        dag,
+            "day":        day,
             "story_date": post.get("story_date", ""),
             "body":       render_md(body_raw),
             "path":       path,
         })
-    fragments.sort(key=lambda f: f["dag"])
+    fragments.sort(key=lambda f: f["day"])
     return fragments
 
 # ── Codex loading ─────────────────────────────────────────────────────────────
-def load_codex(published_dags):
-    """Load codex entries whose unlocked_by dag is in published_dags."""
+def load_codex(published_days):
+    """Load codex entries whose unlocked_by day is in published_days."""
     entries = {"characters": [], "locations": [], "concepts": []}
     for type_key in entries:
         src_dir = CODEX_SRC / type_key
@@ -91,7 +91,7 @@ def load_codex(published_dags):
         for path in sorted(src_dir.glob("*.md")):
             post = frontmatter.load(str(path))
             unlocked_by = int(post.get("unlocked_by", 99999))
-            if unlocked_by not in published_dags:
+            if unlocked_by not in published_days:
                 continue
             entries[type_key].append({
                 "name":        post.get("name", path.stem),
@@ -128,28 +128,28 @@ def write(path, content):
 
 def build_cover(env, fragments):
     total      = len(fragments)
-    latest_dag = fragments[-1]["dag"] if fragments else None
+    latest_day = fragments[-1]["day"] if fragments else None
     tmpl       = env.get_template("cover.html")
-    html       = tmpl.render(ctx(root="", total=total, latest_dag=latest_dag))
+    html       = tmpl.render(ctx(root="", total=total, latest_day=latest_day))
     write(DIST / "index.html", html)
 
 def build_fragments(env, fragments):
     total = len(fragments)
     tmpl  = env.get_template("fragment.html")
     for i, frag in enumerate(fragments):
-        dag      = frag["dag"]
-        prev_dag = fragments[i - 1]["dag"] if i > 0 else None
-        next_dag = fragments[i + 1]["dag"] if i < total - 1 else None
+        day      = frag["day"]
+        prev_day = fragments[i - 1]["day"] if i > 0 else None
+        next_day = fragments[i + 1]["day"] if i < total - 1 else None
         html = tmpl.render(ctx(
             root       = "../../",
-            dag        = dag,
+            day        = day,
             story_date = frag["story_date"],
             body       = frag["body"],
-            prev_dag   = prev_dag,
-            next_dag   = next_dag,
+            prev_day   = prev_day,
+            next_day   = next_day,
             total      = total,
         ))
-        write(DIST / "day" / f"{dag:03d}" / "index.html", html)
+        write(DIST / "day" / f"{day:03d}" / "index.html", html)
 
 def build_archive(env, fragments):
     tmpl = env.get_template("archive.html")
@@ -169,8 +169,8 @@ def main():
 
     env       = make_env()
     fragments = load_fragments()
-    dags      = {f["dag"] for f in fragments}
-    codex     = load_codex(dags)
+    days      = {f["day"] for f in fragments}
+    codex     = load_codex(days)
 
     (DIST / "CNAME").write_text(DOMAIN, encoding="utf-8")
 

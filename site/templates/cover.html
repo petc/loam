@@ -11,9 +11,9 @@
   <p class="cover-teaser">{{ site_teaser }}</p>
 
   <div class="cover-cta">
-    {% if latest_dag %}
-    <a class="btn-begin" href="{{ root }}day/{{ '%03d' % latest_dag }}/">
-      {% if total == 1 %}Read Day 001{% else %}Read the latest — Day {{ '%03d' % latest_dag }}{% endif %}
+    {% if latest_day %}
+    <a class="btn-begin" href="{{ root }}day/{{ '%03d' % latest_day }}/">
+      {% if total == 1 %}Read Day 001{% else %}Read the latest — Day {{ '%03d' % latest_day }}{% endif %}
     </a>
     <a class="btn-begin" href="{{ root }}day/001/" style="background:#2A2118;color:#E8DFD0;margin-top:0">
       Start from the beginning
