@@ -77,5 +77,6 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 029 | Publiek archief. Negen gesloopte wijken. Namen. *Lost to follow-up.* |
 | 031 | Leest haar document van voor naar achter. *I can.* Ze gaat naar Sector 9. |
 | 032 | Aan de bank met notitieboek. "I'm going to send it." Ze vertrekt. |
+| 033 | Ze verstuurt het document om 07:12. Stilte. Ze beseft dat ze Elias niet digitaal kan bereiken. Ze opent haar queue en werkt verder. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

@@ -60,3 +60,4 @@
 | 030 | 11 april 2047 | Elias | De zoete erwten hebben ranken. Ze testen de draad. Nog niet vastgeklampt. Nog beslissend. |
 | 031 | 12 april 2047 | Mara | Ze leest haar document van begin tot eind. *The model does not see what happens between the numbers.* — *I can.* Ze gaat naar Sector 9. |
 | 032 | 13 april 2047 | Elias | Zij aan de bank, hij aan het werk. Stilte. Ze zegt: "I'm going to send it to someone." — "Should I send it?" — "Yes." Ze gaat. Hij werkt door. |
+| 033 | 14 april 2047 | Mara | Ze verstuurt het document om 07:12. *Sent.* De stilte erna. Ze beseft dat ze hem niet digitaal kan bereiken — ze zal naar Sector 9 moeten gaan. Ze opent haar queue. |

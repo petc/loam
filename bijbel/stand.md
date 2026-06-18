@@ -7,21 +7,21 @@
 
 ## Laatste fragment
 
-- **Nummer:** 032
-- **Story-datum:** 13 april 2047
-- **Deploy-datum:** 18 juli 2026
-- **POV:** Elias
-- **Kern:** Mara is in de tuin zonder het te loggen. Ze sluit haar notitieboek. Ze zegt: "I'm going to send it to someone." Elias zegt: "Yes." Ze vertrekt. Hij werkt door. "It might matter and it might not."
+- **Nummer:** 033
+- **Story-datum:** 14 april 2047
+- **Deploy-datum:** 19 juli 2026
+- **POV:** Mara
+- **Kern:** Ze verstuurt het document om 07:12. De handeling zelf, dan de stilte. Ze beseft dat ze Elias niet digitaal kan bereiken — als ze het hem wil vertellen, moet ze naar Sector 9 gaan. Ze opent haar queue en begint te werken.
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** einde fase 2 (De nadering). Fase 3 (De order) begint bij dag 33.
+**Verhaalfase:** fase 3 (De order) — dag 33 is het eerste fragment.
 
-Elias en Mara kennen elkaars naam. Ze delen het gewicht van wat hij heeft gebouwd. Ze weten allebei wat er gaat komen: de remediatie, de sloop, het einde van de tuin. Mara heeft ontdekt dat de ZVA geen analyse was maar een rechtvaardiging — gebouwd voor het Northern Expansion-plan, Phase 2, 2048. Ze heeft een document geschreven over wat de data mist: de mensen, de tuin, het interval.
+Het document is verstuurd. De handeling is onherroepelijk en onzichtbaar tegelijk — niemand reageert nog, niets verandert zichtbaar. Mara werkt gewoon door. Elias weet het nog niet. De stilte na het versturen is de toon van de komende weken.
 
-Ze gaat het morgen versturen.
+Ze gaat het hem vertellen — ze moet naar Sector 9 om dat te doen.
 
 ---
 
@@ -30,7 +30,7 @@ Ze gaat het morgen versturen.
 | Draad | Status | Laatste beweging |
 |-------|--------|-----------------|
 | ZVA Sector 9 | Secundaire review voltooid — remediatieaanbeveling | dag 21 |
-| Mara's document | Klaar, gaat morgen naar onderzoeker urban policy | dag 32 |
+| Mara's document | Verstuurd naar onderzoeker urban policy — geen reactie nog | dag 33 |
 | Zoete erwten | 12cm, eerste echte blaadjes, ranken testen de draad | dag 32 |
 | Klimroos | Richtingsverandering — gaat nu omhoog langs seinpaal | dag 16 |
 | Elias's gezondheid | Nog niet geplant — begint in dag ~35 | — |
@@ -53,15 +53,16 @@ Ze gaat het morgen versturen.
 
 ---
 
-## Wat de lezer weet (na dag 32)
+## Wat de lezer weet (na dag 33)
 
 - Elias schreef het allocatiemodel (2036) en het ZVA-protocol (2034)
 - Het model heeft een compounding-mechanisme zonder correctievlak — zones gaan maar één kant op
 - Mara heeft de oorspronkelijke flag gesloten als anomalie
 - De ZVA van Sector 9 was ingediend vóór haar flag, door Division 4
 - Het doel is het Northern Expansion-plan — de tuin ligt op Priority Corridor Phase 2
-- Mara schrijft een document dat beschrijft wat de data mist
-- Elias zegt: "ik heb dit alleen gedragen voor elf jaar, ik wil dat jij het ook draagt"
+- Mara heeft het document verstuurd naar een onderzoeker urban policy
+- Het is gedaan om 07:12 op dinsdag 14 april — voor het ontbijt, voor ze Elias heeft kunnen vertellen
+- Elias heeft geen digitale aanwezigheid — ze kan hem alleen bereiken door naar Sector 9 te gaan
 - Elias heeft een dochter — **weet de lezer dit nog niet**
 
 ---
