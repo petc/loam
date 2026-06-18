@@ -50,9 +50,9 @@
   </a>
   {% endif %}
 
-  {% if kofi_url %}
+  {% if not next_day or kofi_url %}
   <p class="support-line">
-    If this stays with you, you can <a href="{{ kofi_url }}" target="_blank" rel="noopener">support it here</a>.
+    {% if not next_day %}A new entry arrives every day. {% endif %}{% if kofi_url %}If this stays with you, you can <a href="{{ kofi_url }}" target="_blank" rel="noopener">support it here</a>.{% endif %}
   </p>
   {% endif %}
 </div>

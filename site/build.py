@@ -72,10 +72,11 @@ def load_fragments():
             continue
         body_raw = process_accord_blocks(post.content)
         fragments.append({
-            "day":        day,
-            "story_date": post.get("story_date", ""),
-            "body":       render_md(body_raw),
-            "path":       path,
+            "day":         day,
+            "story_date":  post.get("story_date", ""),
+            "deploy_date": str(deploy_date),
+            "body":        render_md(body_raw),
+            "path":        path,
         })
     fragments.sort(key=lambda f: f["day"])
     return fragments
@@ -156,6 +157,37 @@ def build_archive(env, fragments):
     html = tmpl.render(ctx(root="../", fragments=fragments))
     write(DIST / "archive" / "index.html", html)
 
+def build_feed(fragments):
+    if not fragments:
+        return
+    base_url = f"https://{DOMAIN}"
+    entries = []
+    for frag in reversed(fragments):
+        url = f"{base_url}/day/{frag['day']:03d}/"
+        entries.append(
+            f"  <entry>\n"
+            f"    <title>Day {frag['day']:03d} — {frag['story_date']}</title>\n"
+            f"    <link href=\"{url}\"/>\n"
+            f"    <id>{url}</id>\n"
+            f"    <updated>{frag['deploy_date']}T07:00:00Z</updated>\n"
+            f"    <content type=\"html\"><![CDATA[{frag['body']}]]></content>\n"
+            f"  </entry>"
+        )
+    feed = (
+        '<?xml version="1.0" encoding="utf-8"?>\n'
+        '<feed xmlns="http://www.w3.org/2005/Atom">\n'
+        f'  <title>LOAM</title>\n'
+        f'  <subtitle>A story told one day at a time</subtitle>\n'
+        f'  <link href="{base_url}/"/>\n'
+        f'  <link rel="self" type="application/atom+xml" href="{base_url}/feed.xml"/>\n'
+        f'  <updated>{fragments[-1]["deploy_date"]}T07:00:00Z</updated>\n'
+        f'  <id>{base_url}/</id>\n'
+        f'  <author><name>Reginald Arthur Ashford-Claes</name></author>\n'
+        + "\n".join(entries) + "\n"
+        '</feed>\n'
+    )
+    write(DIST / "feed.xml", feed)
+
 def build_codex(env, codex_entries):
     tmpl = env.get_template("codex.html")
     html = tmpl.render(ctx(root="../", entries=codex_entries))
@@ -178,6 +210,7 @@ def main():
     build_fragments(env, fragments)
     build_archive(env, fragments)
     build_codex(env, codex)
+    build_feed(fragments)
 
     chars = len(codex["characters"])
     locs  = len(codex["locations"])

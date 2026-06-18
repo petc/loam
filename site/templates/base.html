@@ -14,12 +14,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ root }}static/css/style.css">
+  <link rel="alternate" type="application/atom+xml" title="LOAM" href="{{ root }}feed.xml">
   {% if analytics_snippet %}{{ analytics_snippet | safe }}{% endif %}
 </head>
 <body>
 {% block content %}{% endblock %}
 <footer class="site-footer">
-  <p>© 2026 Reginald Arthur Ashford-Claes &mdash; <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener license">CC BY-NC-ND 4.0</a></p>
+  <p>© 2026 Reginald Arthur Ashford-Claes &mdash; <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener license">CC BY-NC-ND 4.0</a> &mdash; <a href="{{ root }}feed.xml">RSS</a></p>
 </footer>
 <script src="{{ root }}static/js/app.js"></script>
 {% block extra_js %}{% endblock %}
