@@ -157,20 +157,38 @@ def build_archive(env, fragments):
     html = tmpl.render(ctx(root="../", fragments=fragments))
     write(DIST / "archive" / "index.html", html)
 
+def _first_paragraph(html):
+    m = re.search(r'<p>.*?</p>', html, re.DOTALL)
+    return m.group(0) if m else html
+
 def build_feed(fragments):
     if not fragments:
         return
     base_url = f"https://{DOMAIN}"
+    cc_footer = (
+        f'<p><small>© Reginald Arthur Ashford-Claes — '
+        f'<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>'
+        f'</small></p>'
+    )
+    latest_day = fragments[-1]["day"]
     entries = []
     for frag in reversed(fragments):
         url = f"{base_url}/day/{frag['day']:03d}/"
+        if frag["day"] == latest_day:
+            body = (
+                _first_paragraph(frag["body"])
+                + f'<p><a href="{url}">Read the full entry on readloam.com →</a></p>'
+                + cc_footer
+            )
+        else:
+            body = frag["body"] + cc_footer
         entries.append(
             f"  <entry>\n"
             f"    <title>Day {frag['day']:03d} — {frag['story_date']}</title>\n"
             f"    <link href=\"{url}\"/>\n"
             f"    <id>{url}</id>\n"
             f"    <updated>{frag['deploy_date']}T07:00:00Z</updated>\n"
-            f"    <content type=\"html\"><![CDATA[{frag['body']}]]></content>\n"
+            f"    <content type=\"html\"><![CDATA[{body}]]></content>\n"
             f"  </entry>"
         )
     feed = (
