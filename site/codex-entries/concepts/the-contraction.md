@@ -1,7 +1,7 @@
 ---
 name: The Contraction
 type: concept
-unlocked_by: 3
+unlocked_by: 2
 ---
 
 Not a single event. A cascade.
