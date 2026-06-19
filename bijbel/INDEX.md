@@ -29,7 +29,7 @@ Een vrouw vindt hem.
 
 | Naam | Status | Bestand | Laatste verschijning |
 |------|--------|---------|----------------------|
-| Elias Voss | actief — in de tuin | [elias.md](personages/elias.md) | dag 032 |
+| Elias Voss | actief — in de tuin | [elias.md](personages/elias.md) | dag 034 |
 | Mara | actief — document verstuurd | [mara.md](personages/mara.md) | dag 033 |
 | Lena Voss | afwezig — nog niet in verhaal | [lena.md](personages/lena.md) | — (gepland ~dag 050) |
 

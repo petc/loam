@@ -1,27 +1,27 @@
 # Stand van het verhaal
 
 *Dit document wordt na elke schrijfsessie bijgewerkt. Het is de dagelijkse briefing.*
-*Laatste update: na dag 32 (batch 2 voltooid).*
+*Laatste update: na dag 34.*
 
 ---
 
 ## Laatste fragment
 
-- **Nummer:** 033
-- **Story-datum:** 14 april 2047
-- **Deploy-datum:** 19 juli 2026
-- **POV:** Mara
-- **Kern:** Ze verstuurt het document om 07:12. De handeling zelf, dan de stilte. Ze beseft dat ze Elias niet digitaal kan bereiken — als ze het hem wil vertellen, moet ze naar Sector 9 gaan. Ze opent haar queue en begint te werken.
+- **Nummer:** 034
+- **Story-datum:** 15 april 2047
+- **Deploy-datum:** 20 juli 2026
+- **POV:** Elias
+- **Kern:** Elias in de tuin, vroeg in de ochtend. De zoete erwten raken de draad. Terwijl hij de stengels vastbindt, denkt hij aan of ze het document verstuurd heeft — hij weet het niet. Eerste terloopse gezondheidshint: "what he takes in the morning" en een moment met één hand op de paal. Hij zit op de bank zonder koffie, vroeger dan gewoonlijk. Hij werkt door.
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 3 (De order) — dag 33 is het eerste fragment.
+**Verhaalfase:** fase 3 (De order) — dag 33–34 geschreven.
 
-Het document is verstuurd. De handeling is onherroepelijk en onzichtbaar tegelijk — niemand reageert nog, niets verandert zichtbaar. Mara werkt gewoon door. Elias weet het nog niet. De stilte na het versturen is de toon van de komende weken.
+Het document is verstuurd. Elias weet het nog niet. Hij is in de tuin, de ochtend werkt zich voort, de zoete erwten groeien. Mara heeft geen manier om hem te bereiken zonder naar Sector 9 te gaan. De stilte na het versturen is de toon.
 
-Ze gaat het hem vertellen — ze moet naar Sector 9 om dat te doen.
+De eerste gezondheidshints zijn geplant in dag 34: terloops, niet verklaard — lezers merken het niet meteen.
 
 ---
 
@@ -33,7 +33,7 @@ Ze gaat het hem vertellen — ze moet naar Sector 9 om dat te doen.
 | Mara's document | Verstuurd naar onderzoeker urban policy — geen reactie nog | dag 33 |
 | Zoete erwten | 12cm, eerste echte blaadjes, ranken testen de draad | dag 32 |
 | Klimroos | Richtingsverandering — gaat nu omhoog langs seinpaal | dag 16 |
-| Elias's gezondheid | Nog niet geplant — begint in dag ~35 | — |
+| Elias's gezondheid | Eerste hint geplant (dag 34) — terloops, niet verklaard | dag 34 |
 | Lena Voss | Nog niet verschenen in het verhaal | — |
 | Mara gestuurd? | Nog niet geplant | — |
 | Accord micro-anomalie | Nog niet geplant | — |
@@ -53,7 +53,7 @@ Ze gaat het hem vertellen — ze moet naar Sector 9 om dat te doen.
 
 ---
 
-## Wat de lezer weet (na dag 33)
+## Wat de lezer weet (na dag 34)
 
 - Elias schreef het allocatiemodel (2036) en het ZVA-protocol (2034)
 - Het model heeft een compounding-mechanisme zonder correctievlak — zones gaan maar één kant op

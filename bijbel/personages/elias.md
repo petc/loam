@@ -77,5 +77,6 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 028 | Plant uiensets — voor zichzelf, niet voor de tuin. Denkt aan haar document. |
 | 030 | Zoete erwten testen de draad. "The interim is the point." |
 | 032 | Ze zegt ze gaat het sturen. Hij: "Yes." Ze vertrekt. Hij werkt door.  |
+| 034 | In de tuin, vroeg. Zoete erwten testen de draad — hij bindt ze in. Denkt aan het document. Onionsets komen door. Zit op de bank eerder dan gewoonlijk, zonder koffie. Werkt door. |
 
-**Gezondheid:** nog niet in het verhaal geplant. Begint subtiel vanaf dag ~35. Nooit aangekonkigd — alleen kleine details die de lezer later zal herkennen.
+**Gezondheid:** eerste terloopse hints geplant in dag 034 — "what he takes in the morning", een moment met hand op de paal, vroeg zitten zonder koffie. Nooit aangekondigd, nooit verklaard.
