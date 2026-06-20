@@ -62,3 +62,4 @@
 | 032 | 13 april 2047 | Elias | Zij aan de bank, hij aan het werk. Stilte. Ze zegt: "I'm going to send it to someone." — "Should I send it?" — "Yes." Ze gaat. Hij werkt door. |
 | 033 | 14 april 2047 | Mara | Ze verstuurt het document om 07:12. *Sent.* De stilte erna. Ze beseft dat ze hem niet digitaal kan bereiken — ze zal naar Sector 9 moeten gaan. Ze opent haar queue. |
 | 034 | 15 april 2047 | Elias | In de tuin, 06:40. Zoete erwten testen de draad — hij bindt de eerste stengels in. Denkt aan of ze het heeft verstuurd. Onionsets komen door. Eerste gezondheidshint. Hij werkt door. |
+| 035 | 16 april 2047 | Mara | Ze gaat na het werk naar Sector 9. Vertelt hem dat ze het heeft gestuurd — dinsdag, 07:12. Hij zegt "good." Ze kijkt naar de zoete erwten. Vraagt naar de rankbeweging: *circumnutation.* Ze vertrekt. |

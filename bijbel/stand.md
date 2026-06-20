@@ -1,27 +1,27 @@
 # Stand van het verhaal
 
 *Dit document wordt na elke schrijfsessie bijgewerkt. Het is de dagelijkse briefing.*
-*Laatste update: na dag 34.*
+*Laatste update: na dag 35.*
 
 ---
 
 ## Laatste fragment
 
-- **Nummer:** 034
-- **Story-datum:** 15 april 2047
-- **Deploy-datum:** 20 juli 2026
-- **POV:** Elias
-- **Kern:** Elias in de tuin, vroeg in de ochtend. De zoete erwten raken de draad. Terwijl hij de stengels vastbindt, denkt hij aan of ze het document verstuurd heeft — hij weet het niet. Eerste terloopse gezondheidshint: "what he takes in the morning" en een moment met één hand op de paal. Hij zit op de bank zonder koffie, vroeger dan gewoonlijk. Hij werkt door.
+- **Nummer:** 035
+- **Story-datum:** 16 april 2047
+- **Deploy-datum:** 21 juli 2026
+- **POV:** Mara
+- **Kern:** Mara gaat donderdagavond na het werk naar Sector 9. Ze vertelt Elias dat ze het document heeft verstuurd — dinsdag, 07:12. Hij zegt "good." Ze staan bij de zoete erwten. Ze vraagt naar de rankbeweging; hij geeft de botanische term (*circumnutation*) en zegt: "They're looking for something to hold." Ze vertrekt.
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 3 (De order) — dag 33–34 geschreven.
+**Verhaalfase:** fase 3 (De order) — dag 33–35 geschreven.
 
-Het document is verstuurd. Elias weet het nog niet. Hij is in de tuin, de ochtend werkt zich voort, de zoete erwten groeien. Mara heeft geen manier om hem te bereiken zonder naar Sector 9 te gaan. De stilte na het versturen is de toon.
+Het document is verstuurd. Elias weet het nu — Mara is donderdag naar Sector 9 gegaan om het hem te vertellen. Hij zei "good." Verder niks. Ze stonden bij de zoete erwten. Ze vertrok.
 
-De eerste gezondheidshints zijn geplant in dag 34: terloops, niet verklaard — lezers merken het niet meteen.
+De eerste gezondheidshints zijn geplant in dag 34: terloops, niet verklaard — lezers merken het niet meteen. Dag 35 geen gezondheidsdetails: dat is correct, Mara is de POV.
 
 ---
 
@@ -31,6 +31,7 @@ De eerste gezondheidshints zijn geplant in dag 34: terloops, niet verklaard — 
 |-------|--------|-----------------|
 | ZVA Sector 9 | Secundaire review voltooid — remediatieaanbeveling | dag 21 |
 | Mara's document | Verstuurd naar onderzoeker urban policy — geen reactie nog | dag 33 |
+| Elias weet dat ze het heeft gestuurd | Mara vertelde het hem in de tuin op donderdag | dag 35 |
 | Zoete erwten | 12cm, eerste echte blaadjes, ranken testen de draad | dag 32 |
 | Klimroos | Richtingsverandering — gaat nu omhoog langs seinpaal | dag 16 |
 | Elias's gezondheid | Eerste hint geplant (dag 34) — terloops, niet verklaard | dag 34 |
@@ -63,6 +64,7 @@ De eerste gezondheidshints zijn geplant in dag 34: terloops, niet verklaard — 
 - Mara heeft het document verstuurd naar een onderzoeker urban policy
 - Het is gedaan om 07:12 op dinsdag 14 april — voor het ontbijt, voor ze Elias heeft kunnen vertellen
 - Elias heeft geen digitale aanwezigheid — ze kan hem alleen bereiken door naar Sector 9 te gaan
+- Mara heeft het Elias verteld op donderdag 16 april, in de tuin; hij zei "good" en werkte door
 - Elias heeft een dochter — **weet de lezer dit nog niet**
 
 ---
