@@ -1,27 +1,27 @@
 # Stand van het verhaal
 
 *Dit document wordt na elke schrijfsessie bijgewerkt. Het is de dagelijkse briefing.*
-*Laatste update: na dag 35.*
+*Laatste update: na dag 36.*
 
 ---
 
 ## Laatste fragment
 
-- **Nummer:** 035
-- **Story-datum:** 16 april 2047
-- **Deploy-datum:** 21 juli 2026
-- **POV:** Mara
-- **Kern:** Mara gaat donderdagavond na het werk naar Sector 9. Ze vertelt Elias dat ze het document heeft verstuurd — dinsdag, 07:12. Hij zegt "good." Ze staan bij de zoete erwten. Ze vraagt naar de rankbeweging; hij geeft de botanische term (*circumnutation*) en zegt: "They're looking for something to hold." Ze vertrekt.
+- **Nummer:** 036
+- **Story-datum:** 17 april 2047
+- **Deploy-datum:** 22 juli 2026
+- **POV:** Elias
+- **Kern:** Vrijdagochtend in de tuin. Elias werkt: compost, brassica's, zoete erwten. Hij stopt halverwege een rij zonder reden — staat een paar seconden stil, dan gaat hij verder. "Hij heeft nooit bijgehouden hoe vaak." De zoete erwten groeien. Hij denkt aan Mara (gisteravond): ze zei dat ze het had gestuurd. Hij zei "good." Ze ging. Nu: "What comes next is not in the garden. He is in the garden." Hij schrijft drie regels in zijn notitieboek en werkt verder.
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 3 (De order) — dag 33–35 geschreven.
+**Verhaalfase:** fase 3 (De order) — dag 33–36 geschreven.
 
-Het document is verstuurd. Elias weet het nu — Mara is donderdag naar Sector 9 gegaan om het hem te vertellen. Hij zei "good." Verder niks. Ze stonden bij de zoete erwten. Ze vertrok.
+Het document is verstuurd. Elias weet het — Mara vertelde het hem donderdagavond (dag 35). Hij zei "good." Ze vertrok. Dag 36: hij werkt verder, niets buitengewoons. De machinerie buiten de tuin staat stil, of beweegt onzichtbaar.
 
-De eerste gezondheidshints zijn geplant in dag 34: terloops, niet verklaard — lezers merken het niet meteen. Dag 35 geen gezondheidsdetails: dat is correct, Mara is de POV.
+Gezondheidshints geplant: dag 34 ("what he takes in the morning", hand op de paal, vroeg zitten zonder koffie), dag 36 (stopt halverwege een rij, staat een paar seconden stil zonder reden — "He has been doing this for a while. He has never kept count."). Terloops, niet verklaard.
 
 ---
 

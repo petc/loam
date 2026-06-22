@@ -78,5 +78,6 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 030 | Zoete erwten testen de draad. "The interim is the point." |
 | 032 | Ze zegt ze gaat het sturen. Hij: "Yes." Ze vertrekt. Hij werkt door.  |
 | 034 | In de tuin, vroeg. Zoete erwten testen de draad — hij bindt ze in. Denkt aan het document. Onionsets komen door. Zit op de bank eerder dan gewoonlijk, zonder koffie. Werkt door. |
+| 036 | Vrijdagochtend. Compost, brassica's, zoete erwten groeien. Stopt halverwege een rij zonder reden — staat stil, gaat dan verder. Zit op de bank met koffie die koud wordt. Denkt aan Mara (gisteren: "good"). Schrijft drie regels in notitieboek. Werkt door. |
 
-**Gezondheid:** eerste terloopse hints geplant in dag 034 — "what he takes in the morning", een moment met hand op de paal, vroeg zitten zonder koffie. Nooit aangekondigd, nooit verklaard.
+**Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie) en dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count."). Nooit aangekondigd, nooit verklaard.
