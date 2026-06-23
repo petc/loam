@@ -1,25 +1,25 @@
 # Stand van het verhaal
 
 *Dit document wordt na elke schrijfsessie bijgewerkt. Het is de dagelijkse briefing.*
-*Laatste update: na dag 36.*
+*Laatste update: na dag 37.*
 
 ---
 
 ## Laatste fragment
 
-- **Nummer:** 036
-- **Story-datum:** 17 april 2047
-- **Deploy-datum:** 22 juli 2026
-- **POV:** Elias
-- **Kern:** Vrijdagochtend in de tuin. Elias werkt: compost, brassica's, zoete erwten. Hij stopt halverwege een rij zonder reden — staat een paar seconden stil, dan gaat hij verder. "Hij heeft nooit bijgehouden hoe vaak." De zoete erwten groeien. Hij denkt aan Mara (gisteravond): ze zei dat ze het had gestuurd. Hij zei "good." Ze ging. Nu: "What comes next is not in the garden. He is in the garden." Hij schrijft drie regels in zijn notitieboek en werkt verder.
+- **Nummer:** 037
+- **Story-datum:** 18 april 2047
+- **Deploy-datum:** 23 juli 2026
+- **POV:** Mara
+- **Kern:** Zaterdagochtend thuis. Ze wacht. Celia in de keuken, radio aan. Mara checkt haar secundaire inbox (niets), de publieke pagina van de onderzoeker (niet bijgewerkt sinds februari). Ze sluit alles. Gaat naar de markt — ze loopt altijd south, ze heeft zich nooit afgevraagd waarom. Koopt twee sinaasappels. Thuis: "The document is somewhere she cannot see. She waits the way you wait for something that has already left your hands."
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 3 (De order) — dag 33–36 geschreven.
+**Verhaalfase:** fase 3 (De order) — dag 33–37 geschreven.
 
-Het document is verstuurd. Elias weet het — Mara vertelde het hem donderdagavond (dag 35). Hij zei "good." Ze vertrok. Dag 36: hij werkt verder, niets buitengewoons. De machinerie buiten de tuin staat stil, of beweegt onzichtbaar.
+Het document is verstuurd. Elias weet het — Mara vertelde het hem donderdagavond (dag 35). Hij zei "good." Ze vertrok. Dag 36: hij werkt verder, niets buitengewoons. Dag 37: Mara's zaterdag — ze wacht, de onderzoeker heeft niet gereageerd, ze loopt naar de markt zoals altijd. De machinerie buiten de tuin staat stil, of beweegt onzichtbaar.
 
 Gezondheidshints geplant: dag 34 ("what he takes in the morning", hand op de paal, vroeg zitten zonder koffie), dag 36 (stopt halverwege een rij, staat een paar seconden stil zonder reden — "He has been doing this for a while. He has never kept count."). Terloops, niet verklaard.
 

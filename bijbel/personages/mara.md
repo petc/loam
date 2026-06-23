@@ -79,5 +79,6 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 032 | Aan de bank met notitieboek. "I'm going to send it." Ze vertrekt. |
 | 033 | Ze verstuurt het document om 07:12. Stilte. Ze beseft dat ze Elias niet digitaal kan bereiken. Ze opent haar queue en werkt verder. |
 | 035 | Donderdagavond na het werk naar Sector 9. Vertelt Elias dat ze het heeft gestuurd. Hij zegt "good." Ze kijkt naar de zoete erwten, vraagt naar de rankbeweging. Ze vertrekt. |
+| 037 | Zaterdagochtend thuis met Celia. Checkt haar inbox en de publieke pagina van de onderzoeker — niets. Gaat naar de markt: altijd south, heeft zich nooit afgevraagd waarom. Thuis met twee sinaasappels. Wachten. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.
