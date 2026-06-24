@@ -1,0 +1,39 @@
+name: LOAM — Dagelijks Fragment
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 08:00 CEST (zomer) / 07:00 CET (winter)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  schrijf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Git config
+        run: |
+          git config user.email "loam-schrijver[bot]@users.noreply.github.com"
+          git config user.name "LOAM Schrijver"
+
+      - name: Schrijf fragment
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/loam-schrijver.py
