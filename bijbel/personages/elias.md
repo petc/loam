@@ -105,5 +105,13 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 079 (draft) | Vertelt Mara. Ze is boos en blijft. |
 | 080 (draft) | Eerste consult gepland. Werkt met Daniel in de tuin. "There's someone" — nog geen naam. |
 | 081 (draft) | Daniels bezwaar gedeeltelijk gewonnen. "I'll take not nothing." |
+| 084 (draft) | Beslist over Lena: een zaad en een ongetekend kaartje, geen naam, geen retouradres. |
+| 085 (draft) | **Vertelt Mara over Lena.** Zijn achternaam (Voss) valt voor het eerst hardop. |
+| 087 (draft) | Verstuurt het pakketje via Daniel/Sector 4. |
+| 089 (draft) | **Remediatiekennisgeving aan het hek. Dertig dagen.** Vertelt het Mara meteen — geen "not yet" meer. |
+| 091 (draft) | Bevestigt: pakketje afgeleverd 24 juni, geen reactie. "It might matter and it might not." |
+| 093 (draft) | Sloopploeg arriveert. Vraagt de foreman de tuin te noteren. |
+| 094 (draft) | **Laatste wandeling door de tuin**, zelfde tempo als altijd. |
+| 095 (draft) | **Slotfragment.** Twee zaadjes van Owen in zijn jaszak. |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

@@ -102,5 +102,11 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 079 (draft) | Elias vertelt haar de diagnose. Boos én blijft. Neemt zijn hand — eerste keer zij initieert. |
 | 081 (draft) | Daniels gedeeltelijke overwinning. Belt hem persoonlijk. |
 | 082 (draft) | Reorganisatie-aankondiging bij Verification — voorbode van eigen baanverlies. Vertelt Elias nog niets. |
+| 083 (draft) | Herplaatsing bevestigd: Regional Data Standards, 14 dagen. |
+| 085 (draft) | Hoort over Lena. Legt zelf de connectie met de naam uit dag 50. |
+| 086 (draft) | Laatste dag oude functie. Sector 9 "subtiel weggevallen" uit haar zicht. |
+| 090 (draft) | Verwerkt de remediatiekennisgeving samen met Elias. "We use the thirty days." |
+| 092 (draft) | Laatste volle dag — oogst met Daniel en Priya. |
+| 093 (draft) | Komt erbij als de sloopploeg arriveert. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

@@ -5,24 +5,39 @@
 
 ---
 
-## Laatste fragment (draft, nog niet gevalideerd)
+## HET VERHAAL IS VOLLEDIG GESCHREVEN (dag 1-95), IN DRAFT
 
-- **Nummer:** 082
-- **Story-datum:** 2 juni 2047
-- **POV:** Mara
-- **Kern:** Maandag. Reorganisatie-aankondiging bij Verification — Mara herkent het als de eerste stap richting haar eigen verwijdering van Sector 9. Vertelt Elias nog niets — wil hem dezelfde ruimte geven die hij haar gaf.
+- **Laatste fragment: 095**
+- **Story-datum:** 30 juli 2047
+- **POV:** Elias
+- **Kern:** Slotbeeld. Elias ontwaakt zonder tuin om naar toe te gaan. Mara komt langs. Hij toont haar de twee zaadjes van Owen die hij apart hield — "two is honest... whatever soil I find next, if I find any at all." Het verhaal sluit niet op verlossing, maar op continuïteit: hij is nog altijd iemand die een zaad meedraagt.
 
-*Let op: dag 039-082 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter. Belangrijke aanpassing t.o.v. het oorspronkelijke ARC.md-plan: de zoete erwten zijn al volledig uitgebloeid in fase 4 (eenjarigen, één bloeivenster) — de sloop in fase 5 vernietigt dus niet "bloemen op hun hoogtepunt" maar het bewaarde zaad en de belofte van een volgend seizoen. ARC.md is hierop al aangepast.*
+*Let op: dag 039-095 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter. Alleen dag 001-038 zijn `scheduled` en live. Peter moet dag 039-095 proeflezen/valideren vóór ze gepubliceerd worden (status draft → scheduled, verplaatsen naar `bijbel/fragmenten/`), conform de bestaande workflow (batch-review, taalcontrole via Telegram).*
 
 ---
 
-## Waar staan we
+## Samenvatting van het volledige verhaal (voor wie snel context nodig heeft)
 
-**Verhaalfase:** fase 5 (Wat blijft), begin — dag 76-82 geschreven, dag 33-082 totaal (038 gescheduled, 039-082 draft).
+**Fase 1-2 (dag 1-32, gescheduled/live):** Elias en Mara vinden elkaar over een tuinhek. Ze deelt het compounding-mechanisme met hem; hij vertelt haar over het allocatiemodel. Ze besluit een document te versturen naar een onderzoeker urban policy.
 
-Elias ging eindelijk naar de kliniek (dag 76, alleen, zonder het Mara vooraf te vertellen) en kreeg de diagnose (dag 78): een massa, opereerbaar in principe, met percentages die slechter zijn dan ze vier maanden eerder waren geweest — een directe, expliciete consequentie van zijn eigen "not yet"-patroon, nu toegepast op zijn lichaam in plaats van op zijn geweten. Hij vertelde het Mara onmiddellijk de dag erna (dag 79); ze is boos over het uitstel én blijft — "both of those, at once." Eerste consult gepland (dag 80). Ondertussen lopen de bezwaarschriften uiteen: de Whitlocks afgewezen (dag 77, geen verder beroep), Daniel gedeeltelijk gewonnen (dag 81, verlengd verblijf) — het systeem is niet monolithisch wreed, maar wel overwegend. Dag 82: de eerste tekenen van Mara's eigen aanstaande verlies van toegang/baan (reorganisatie-aankondiging) — ze houdt dit voorlopig voor zichzelf, net zoals Elias deed met zijn symptomen.
+**Fase 3 (dag 33-55, draft):** Het document wordt verstuurd. Notificaties bereiken Sector 9. Mara's supervisor waarschuwt haar. Daniel (nieuw buurtpersonage) en de Whitlocks dienen bezwaar in met Elias' hulp. De onderzoeker antwoordt en belooft een geanonimiseerde publicatie. **Dag 50: eerste verschijning van Lena Voss als naam in Mara's data — geen connectie gelegd.**
 
-**Nog te schrijven in fase 5:** Mara's baanverlies (geleidelijk, niet dramatisch — "op een ochtend is ze er niet meer"), Elias' behandeltraject en de vraag of/wanneer hij Lena alsnog bereikt, de slooporder voor Sector 9, het laatste bezoek aan de tuin, het slotbeeld (een zaad in een jaszak). Zie ARC.md fase 5 voor het volledige kader (recent bijgewerkt).
+**Fase 4 (dag 56-75, draft):** De zoete erwten bloeien vol (drie golven, dan uitgedoofd — eenjarigen). Eerste terloopse hint dat dit Elias' laatste seizoen is. De "Mara gestuurd?"-intrige wordt geplant én geconfronteerd (een manuele routing-override, nooit volledig opgelost). De onderzoeker publiceert. Mara krijgt een formele waarschuwing op haar dossier. Het diepe gesprek: Elias vertelt over zijn huwelijk en "someone I lost... to silence" — Lena bijna genoemd. Zijn gezondheid escaleert van vaag naar scherp; hij erkent het tegenover Mara.
+
+**Fase 5 (dag 76-95, draft):** Elias gaat eindelijk naar de kliniek — diagnose: een massa, opereerbaar, percentages slechter door zijn eigen uitstel. Vertelt Mara meteen. De Whitlocks worden afgewezen; Daniel wint gedeeltelijk. Mara verliest haar toegang tot Sector 9-data (reorganisatie naar Regional Data Standards, geen dramatische ontslagscène). Elias vertelt Mara eindelijk over Lena en stuurt haar, anoniem, een zaad met een ongetekend kaartje — Mara legt zelf de connectie met de naam die ze maanden eerder zag. Geen reactie van Lena komt terug binnen het verhaal (bewust onopgelost). De remediatiekennisgeving hangt aan het hek: dertig dagen. Laatste oogst, laatste zaden bewaard, stekken van de klimroos naar Daniels grond. De sloopploeg arriveert; Elias loopt de tuin één laatste keer door, in hetzelfde tempo als altijd. **Slotbeeld (dag 95): twee zaadjes in zijn jaszak.**
+
+---
+
+## Belangrijke aanpassing t.o.v. het oorspronkelijke ARC.md-plan
+
+De zoete erwten zijn volledig uitgebloeid in fase 4 (eenjarigen, één bloeivenster — biologisch correct, en consistent met alles wat al over de plant geschreven stond: "they will not be here in November", "three weeks, maybe four"). De sloop in fase 5 vernietigt daarom niet "bloemen op hun hoogtepunt" (het oorspronkelijke ARC-beeld) maar **het bewaarde zaad en de belofte van een volgend seizoen** — inhoudelijk sterker omdat het aansluit bij het "interim is the point"-motief (dag 30) en het "somewhere you'd remember"-zaadzakje (dag 73). ARC.md is hierop al aangepast (twee plekken).
+
+## Wat nog open blijft — bewust, voor Peters beoordeling
+
+- **Lena's reactie:** blijft volledig onopgelost binnen het verhaal — het pakketje is afgeleverd (dag 91), er komt geen antwoord. Dit is een bewuste keuze (past bij "hoop... klein, fragiel, niet beloond"), maar is wél een plek waar Peter een andere afweging kan maken bij het proeflezen.
+- **Elias' gezondheid aan het einde:** blijft ambigu — niet genezen, niet (binnen het verhaal) overleden. Hij is nog in behandeling op dag 95. Dit is bewust gekozen om niet te eindigen op een dood of een wonder, maar op continuïteit ("someone who carries a seed rather than someone who has stopped").
+- **Mara's document/de bredere impact:** ARC.md's oorspronkelijke idee dat het document "maanden/jaren later" geciteerd wordt en dat "Sector 9 niet meer bestaat als dit bekend wordt" is bewust **niet** in fragment 95 gedramatiseerd — dat ligt expliciet "buiten het kader van het verhaal" volgens ARC.md zelf, en de vorm (tegenwoordige tijd, geen epiloogsprongen) laat dat ook niet toe zonder de stijl te breken.
+- **Weekdag-inconsistentie dag 013-027** (zie eerdere sessie): nog steeds niet gefixt, blijft een aandachtspunt voor een aparte, gerichte sessie.
 
 ---
 

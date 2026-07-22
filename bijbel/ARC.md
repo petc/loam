@@ -12,6 +12,8 @@ Het eindigt niet goed. Het eindigt eerlijk.
 
 **Totaal:** ~95 fragmenten, ~43.000 woorden. Novelle.
 
+**Status: volledig geschreven (dag 1-95).** Dag 1-38 gescheduled/live. Dag 39-95 geschreven als draft (`bijbel/fragmenten/drafts/`), wacht op Peters proeflezing/validatie. Zie `stand.md` voor een volledige samenvatting van fase 3-5 en een lijst van bewust open gelaten keuzes ter beoordeling.
+
 ### Fase 1 — De aarde (dagen 1–7, 15–19 maart 2047)
 *Reeds geschreven.*
 

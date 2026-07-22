@@ -110,3 +110,16 @@
 | 080 | 31 mei 2047 | Elias | Eerste consult gepland. Daniel werkt mee in de tuin, vraagt of er nog iemand is die het moet weten. Elias: "there's someone" — geen naam. |
 | 081 | 1 juni 2047 | Mara | **Daniels bezwaar gedeeltelijk gewonnen** — verlengd verblijf, geen verplichte relocatie. Eerste echte hoopvolle moment in weken. |
 | 082 | 2 juni 2047 | Mara | Reorganisatie-aankondiging bij Verification — voelt aan als de eerste stap richting haar eigen verlies van toegang. Vertelt Elias nog niets. |
+| 083 | 3 juni 2047 | Mara | Individuele herplaatsing bevestigd: Regional Data Standards, over 14 dagen, geen toegang meer tot sectorspecifieke data. |
+| 084 | 4 juni 2047 | Elias | Beslist over Lena: geen telefoontje, geen naam — een zaad uit Owens pot en een ongetekend kaartje. "Someone who knew him thought you should have this." |
+| 085 | 5 juni 2047 | Mara | **Elias vertelt haar over Lena.** Mara legt de connectie met dag 50 ("Lena Voss, systems integration architect"). Zijn achternaam (Voss) valt voor het eerst hardop. |
+| 086 | 18 juni 2047 | Mara | Laatste dag op haar oude functie — geen afscheid, gewoon een lege dag. Regional Data Standards. Sector 9 is subtiel "weggevallen" uit haar zicht — geen vlag, gewoon afwezig. |
+| 087 | 19 juni 2047 | Elias | Verstuurt het pakketje voor Lena via Daniel (Sector 4-omweg). Eerste behandelcyclus loopt. |
+| 088 | 21 juni 2047 | Mara | Twee weken in de nieuwe functie — mist de "ache" van het oude werk. Elias meldt: corridor review sluit eind juni. |
+| 089 | 30 juni 2047 | Elias | **De remediatiekennisgeving hangt aan het hek zelf** — dertig dagen, "no earlier than." Neemt de beslissing het Mara meteen te vertellen, geen "not yet" meer. |
+| 090 | 30 juni 2047 | Mara | Ze verwerken het samen. "We use the thirty days." Vraagt naar Lena — bezorgd, nog geen antwoord. |
+| 091 | 2 juli 2047 | Elias | Bevestiging: het pakketje is afgeleverd op 24 juni. Geen reactie. "It might matter and it might not" — echo van dag 32, payoff. |
+| 092 | 24 juli 2047 | Mara | Laatste volle dag met Daniel en Priya — oogst, zaad bewaard (26 variëteiten), stekken van de klimroos meegenomen naar Daniels strook grond. |
+| 093 | 27 juli 2047 | Elias | De sloopploeg arriveert. Vraagt de foreman om de tuin (sinds 2040) te noteren. Mara komt erbij. |
+| 094 | 29 juli 2047 | Elias | **Laatste wandeling door de tuin**, hetzelfde tempo als altijd. Stopt bij de seinpaal en de klimroos-resten. Stapt voor het laatst door de poort. |
+| 095 | 30 juli 2047 | Elias | **Slotbeeld.** Ontwaakt zonder tuin om naar toe te gaan. Neemt twee zaadjes van Owen mee in zijn jaszak. "Someone who still carries a seed rather than someone who has stopped." **EINDE VAN HET VERHAAL (dag 1-95).** |
