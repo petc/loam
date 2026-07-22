@@ -100,5 +100,10 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 073 (draft) | Leert Mara zaden bewaren. "Somewhere you'd remember, if you needed to find it in a hurry." |
 | 074 (draft) | Pijn wordt scherp en specifiek. Herkent zijn eigen "not yet"-patroon toegepast op zichzelf. |
 | 075 (draft) | Erkent de pijn hardop tegenover Mara. Geen kliniekbelofte. **Einde fase 4.** |
+| 076 (draft) | Gaat naar de kliniek, alleen. Denkt voor het eerst bewust en volledig aan Lena bij naam. |
+| 078 (draft) | **Diagnose: een massa, opereerbaar, percentages slechter door het uitstel.** |
+| 079 (draft) | Vertelt Mara. Ze is boos en blijft. |
+| 080 (draft) | Eerste consult gepland. Werkt met Daniel in de tuin. "There's someone" — nog geen naam. |
+| 081 (draft) | Daniels bezwaar gedeeltelijk gewonnen. "I'll take not nothing." |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

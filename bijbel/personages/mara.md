@@ -98,5 +98,9 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 070 (draft) | Begrijpt de tuin als Elias' enige eerlijke plek. Noteert: "He said 'someone I lost.' Not 'something.' Someone." |
 | 072 (draft) | Daniels zaak escaleert naar Secondary Determination. |
 | 075 (draft) | Confronteert Elias rechtstreeks. Hij erkent de pijn. |
+| 077 (draft) | De Whitlocks afgewezen. Brengt de brief samen met Elias. |
+| 079 (draft) | Elias vertelt haar de diagnose. Boos én blijft. Neemt zijn hand — eerste keer zij initieert. |
+| 081 (draft) | Daniels gedeeltelijke overwinning. Belt hem persoonlijk. |
+| 082 (draft) | Reorganisatie-aankondiging bij Verification — voorbode van eigen baanverlies. Vertelt Elias nog niets. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

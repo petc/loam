@@ -7,22 +7,22 @@
 
 ## Laatste fragment (draft, nog niet gevalideerd)
 
-- **Nummer:** 075
-- **Story-datum:** 26 mei 2047
+- **Nummer:** 082
+- **Story-datum:** 2 juni 2047
 - **POV:** Mara
-- **Kern:** Maandag. Mara confronteert Elias rechtstreeks over hoe hij beweegt. Hij erkent de pijn voor het eerst hardop tegenover haar — geen belofte van een kliniekbezoek, wel de belofte het niet meer te ontkennen tegenover haar. **Einde fase 4.**
+- **Kern:** Maandag. Reorganisatie-aankondiging bij Verification — Mara herkent het als de eerste stap richting haar eigen verwijdering van Sector 9. Vertelt Elias nog niets — wil hem dezelfde ruimte geven die hij haar gaf.
 
-*Let op: dag 039-075 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
+*Let op: dag 039-082 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter. Belangrijke aanpassing t.o.v. het oorspronkelijke ARC.md-plan: de zoete erwten zijn al volledig uitgebloeid in fase 4 (eenjarigen, één bloeivenster) — de sloop in fase 5 vernietigt dus niet "bloemen op hun hoogtepunt" maar het bewaarde zaad en de belofte van een volgend seizoen. ARC.md is hierop al aangepast.*
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 4 afgesloten (dag 56-75). Fase 5 (Wat blijft) begint bij dag 076. Dag 33-075 geschreven (038 gescheduled, 039-075 draft).
+**Verhaalfase:** fase 5 (Wat blijft), begin — dag 76-82 geschreven, dag 33-082 totaal (038 gescheduled, 039-082 draft).
 
-Hoogtepunten van de tweede helft van fase 4: het diepe gesprek (dag 69-70) waarin Elias vertelt over zijn huwelijk en over "someone I don't talk about... lost to silence" — Lena bijna genoemd, nooit met naam. Mara begrijpt daarna wat de tuin werkelijk is: geen vlucht, zijn enige eerlijke plek. Ze noteert zelf: "He said 'someone I lost.' Not 'something.' Someone" — een onbewuste aanzet richting de uiteindelijke Lena-herkenning, nog niet gekoppeld aan de naam uit dag 50. Daniels bezwaarschrift escaleert naar "Secondary Determination" (dag 72) — geen winst, wel een serieus signaal. De zoete erwten doven uit over drie bloeigolven heen (dag 73: hij leert haar zaden bewaren, geeft haar een zakje mee met een onverklaarde waarschuwing — "somewhere you'd remember, if you needed to find it in a hurry"). Elias' gezondheid escaleert van vage pijn naar iets scherps en specifieks (dag 74) — hij herkent zijn eigen "not yet"-patroon nu toegepast op zijn eigen lichaam. Dag 75: Mara confronteert hem, hij erkent het voor het eerst hardop. Geen kliniekbezoek toegezegd.
+Elias ging eindelijk naar de kliniek (dag 76, alleen, zonder het Mara vooraf te vertellen) en kreeg de diagnose (dag 78): een massa, opereerbaar in principe, met percentages die slechter zijn dan ze vier maanden eerder waren geweest — een directe, expliciete consequentie van zijn eigen "not yet"-patroon, nu toegepast op zijn lichaam in plaats van op zijn geweten. Hij vertelde het Mara onmiddellijk de dag erna (dag 79); ze is boos over het uitstel én blijft — "both of those, at once." Eerste consult gepland (dag 80). Ondertussen lopen de bezwaarschriften uiteen: de Whitlocks afgewezen (dag 77, geen verder beroep), Daniel gedeeltelijk gewonnen (dag 81, verlengd verblijf) — het systeem is niet monolithisch wreed, maar wel overwegend. Dag 82: de eerste tekenen van Mara's eigen aanstaande verlies van toegang/baan (reorganisatie-aankondiging) — ze houdt dit voorlopig voor zichzelf, net zoals Elias deed met zijn symptomen.
 
-**Volgende fase (5):** de machinerie beweegt traag, de beroepen worden behandeld, Mara verliest uiteindelijk haar toegang/baan, de zoete erwten worden vernietigd terwijl (in een latere teelt) ze bloeien, het laatste beeld is een zaad in een jaszak. Zie ARC.md fase 5 voor het volledige kader.
+**Nog te schrijven in fase 5:** Mara's baanverlies (geleidelijk, niet dramatisch — "op een ochtend is ze er niet meer"), Elias' behandeltraject en de vraag of/wanneer hij Lena alsnog bereikt, de slooporder voor Sector 9, het laatste bezoek aan de tuin, het slotbeeld (een zaad in een jaszak). Zie ARC.md fase 5 voor het volledige kader (recent bijgewerkt).
 
 ---
 

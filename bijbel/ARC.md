@@ -68,7 +68,7 @@ Mara verliest haar baan — niet via een grote scène, maar via een herbeoordeli
 
 Elias werkt door.
 
-**De zoete erwten worden vernietigd terwijl ze bloeit.** De expedited timeline zorgt voor een sloopbevel in juni of juli — de bloemen staan op hun hoogtepunt. Dit is geen symboliek die het verhaal uitlegd. Dit is wat er gewoon is, en het is ondraaglijk.
+**De zoete erwten zijn al uitgebloeid (fase 4, dag 53-75) — eenjarigen, één bloeivenster, daarna zaad.** Tegen fase 5 staat er geen bloem meer, enkel het zaad dat Elias en Mara samen bewaarden (dag 73), bedoeld voor een volgend seizoen. **De sloop vernietigt niet de bloei zelf, maar de belofte van een volgend seizoen** — het bed waarin dat zaad ooit weer had moeten groeien. Dit is geen zwakkere versie van het oorspronkelijke beeld (bloemen vernietigd op hun hoogtepunt): het is preciezer, en het sluit aan bij wat al is opgebouwd — "the interim is the point" (dag 030), het zaad dat je "somewhere you'd remember" moet houden (dag 073). De tragiek zit niet in vernietigde schoonheid, maar in een onderbroken continuïteit.
 
 Hij is er als ze komen. Hij loopt de tuin door voor de laatste keer, in hetzelfde tempo als altijd.
 
@@ -134,6 +134,6 @@ Alle namen — personen, straten, plaatsen — zijn Engelstalig. Geen Nederlands
 | ~62 | mei | Mara's formele waarschuwing. |
 | ~70 | mei | Het gesprek. Elias over zijn leven vóór. |
 | ~80 | mei/juni | Mara verliest haar toegang tot het terrein. |
-| ~85 | juni | De slooporder — terwijl de bloemen staan. |
+| ~85 | juni | De slooporder — bloemen al uitgebloeid; het bewaarde zaad en de belofte van een volgend seizoen worden vernietigd. |
 | ~90 | juni | De laatste ochtend in de tuin. |
 | ~95 | juni | Een zaad in een jaszak. |

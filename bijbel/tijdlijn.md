@@ -103,3 +103,10 @@
 | 073 | 24 mei 2047 | Elias | Derde bloeigolf dooft uit. Leert Mara zaden bewaren. Geeft haar een zakje mee: "somewhere you'd remember, if you needed to find it in a hurry." |
 | 074 | 25 mei 2047 | Elias | De pijn wordt scherp en specifiek — niet langer vaag. Herkent zijn eigen patroon ("not yet") toegepast op zijn eigen lichaam. Gaat nog steeds niet naar de kliniek. |
 | 075 | 26 mei 2047 | Mara | Confronteert hem rechtstreeks. Hij erkent de pijn voor het eerst hardop. "I won't pretend, with you, that this is nothing." **Einde fase 4.** |
+| 076 | 27 mei 2047 | Elias | **Gaat naar de kliniek, alleen, zonder het Mara te vertellen.** Scans besteld, resultaten binnen 3-5 dagen. Denkt voor het eerst bewust en volledig aan Lena bij naam. |
+| 077 | 28 mei 2047 | Mara | De Whitlocks worden afgewezen — geen verder beroep mogelijk. Elias en zij brengen de brief samen. |
+| 078 | 29 mei 2047 | Elias | **Diagnose: een massa, opereerbaar in principe, percentages slechter dan vier maanden geleden.** Zijn eigen "not yet"-patroon heeft hem effectief geschaad. |
+| 079 | 30 mei 2047 | Mara | Hij vertelt haar. Ze is boos én blijft er — "both of those, at once." Eerste keer dat zij zijn hand neemt, niet omgekeerd. |
+| 080 | 31 mei 2047 | Elias | Eerste consult gepland. Daniel werkt mee in de tuin, vraagt of er nog iemand is die het moet weten. Elias: "there's someone" — geen naam. |
+| 081 | 1 juni 2047 | Mara | **Daniels bezwaar gedeeltelijk gewonnen** — verlengd verblijf, geen verplichte relocatie. Eerste echte hoopvolle moment in weken. |
+| 082 | 2 juni 2047 | Mara | Reorganisatie-aankondiging bij Verification — voelt aan als de eerste stap richting haar eigen verlies van toegang. Vertelt Elias nog niets. |
