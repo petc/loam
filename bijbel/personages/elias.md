@@ -95,5 +95,10 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 064 (draft) | Kan niet meer comfortabel knielen. Rekent de weken uit. Kiest bewust geen kliniek. |
 | 066 (draft) | Erkent tegenover Mara zijn eigen falen als contrast met haar moed. |
 | 067 (draft) | Daniels voorlopig antwoord. "No mercy, just seed, saved carefully, planted again." |
+| 069 (draft) | Diep gesprek: huwelijk, en "someone I don't talk about... lost to silence." Stopt zichzelf — Lena bijna genoemd. |
+| 071 (draft) | Pijn verplaatst. Vertelt Mara bewust niets deze week. Zadenblik: 23 variëteiten sinds 2040. |
+| 073 (draft) | Leert Mara zaden bewaren. "Somewhere you'd remember, if you needed to find it in a hurry." |
+| 074 (draft) | Pijn wordt scherp en specifiek. Herkent zijn eigen "not yet"-patroon toegepast op zichzelf. |
+| 075 (draft) | Erkent de pijn hardop tegenover Mara. Geen kliniekbelofte. **Einde fase 4.** |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

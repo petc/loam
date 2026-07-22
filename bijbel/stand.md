@@ -7,22 +7,22 @@
 
 ## Laatste fragment (draft, nog niet gevalideerd)
 
-- **Nummer:** 067
-- **Story-datum:** 18 mei 2047
-- **POV:** Elias
-- **Kern:** Zondag. Daniel krijgt een voorlopig, niet-afwijzend antwoord op zijn bezwaarschrift. Gesprek over zoete erwten als eenjarigen — "no mercy, just seed, saved carefully, planted again" — een bijna-onthulling die Daniel niet doorvraagt.
+- **Nummer:** 075
+- **Story-datum:** 26 mei 2047
+- **POV:** Mara
+- **Kern:** Maandag. Mara confronteert Elias rechtstreeks over hoe hij beweegt. Hij erkent de pijn voor het eerst hardop tegenover haar — geen belofte van een kliniekbezoek, wel de belofte het niet meer te ontkennen tegenover haar. **Einde fase 4.**
 
-*Let op: dag 039-067 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
+*Let op: dag 039-075 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 4 (De bloei), midden — dag 33-067 geschreven (038 gescheduled, 039-067 draft).
+**Verhaalfase:** fase 4 afgesloten (dag 56-75). Fase 5 (Wat blijft) begint bij dag 076. Dag 33-075 geschreven (038 gescheduled, 039-075 draft).
 
-Sinds dag 60: een stille zondag (61) waarin Elias voor zichzelf, niet hardop, de zin afmaakt die hij eerder liet hangen — hij denkt dat hij de volgende bloeigolf niet zal meemaken. Dag 62-63: **de onderzoeker publiceert de column** — geanonimiseerd, het compounding-mechanisme is nu publiek. Elias' reactie is geen opluchting maar verdriet: negen jaar de enige die het wist, nu gedeeld met vreemden. Dag 64: Elias kan niet meer comfortabel knielen, rekent de weken uit, kiest bewust nog steeds geen kliniek — deels uit angst voor het systeem, deels uit angst voor de diagnose zelf. Dag 65-66: Mara krijgt een **formele waarschuwing** ("unauthorized access to restricted materials"), permanent op haar dossier — vergelijkt het zelf met wat het model Sector 9 aandoet, op kleinere schaal. Elias erkent tegenover haar zijn eigen falen als contrast: zij betaalde iets, hij betaalde niets en droeg de stilte. Dag 67: Daniels bezwaarschrift krijgt een voorlopig, niet-negatief antwoord.
+Hoogtepunten van de tweede helft van fase 4: het diepe gesprek (dag 69-70) waarin Elias vertelt over zijn huwelijk en over "someone I don't talk about... lost to silence" — Lena bijna genoemd, nooit met naam. Mara begrijpt daarna wat de tuin werkelijk is: geen vlucht, zijn enige eerlijke plek. Ze noteert zelf: "He said 'someone I lost.' Not 'something.' Someone" — een onbewuste aanzet richting de uiteindelijke Lena-herkenning, nog niet gekoppeld aan de naam uit dag 50. Daniels bezwaarschrift escaleert naar "Secondary Determination" (dag 72) — geen winst, wel een serieus signaal. De zoete erwten doven uit over drie bloeigolven heen (dag 73: hij leert haar zaden bewaren, geeft haar een zakje mee met een onverklaarde waarschuwing — "somewhere you'd remember, if you needed to find it in a hurry"). Elias' gezondheid escaleert van vage pijn naar iets scherps en specifieks (dag 74) — hij herkent zijn eigen "not yet"-patroon nu toegepast op zijn eigen lichaam. Dag 75: Mara confronteert hem, hij erkent het voor het eerst hardop. Geen kliniekbezoek toegezegd.
 
-Gezondheid: motief blijft continu aanwezig (dag 64 grote uitwerking) zonder als "nieuwe hint" geteld te worden — de aftakeling is nu een constante ondertoon, geen losse momenten meer.
+**Volgende fase (5):** de machinerie beweegt traag, de beroepen worden behandeld, Mara verliest uiteindelijk haar toegang/baan, de zoete erwten worden vernietigd terwijl (in een latere teelt) ze bloeien, het laatste beeld is een zaad in een jaszak. Zie ARC.md fase 5 voor het volledige kader.
 
 ---
 
@@ -37,10 +37,12 @@ Gezondheid: motief blijft continu aanwezig (dag 64 grote uitwerking) zonder als 
 | Zoete erwten | Eerste kleur zichtbaar in de knoppen — bloei nadert | dag 48 |
 | Klimroos | Nieuw uitlopertje langs de gantry | dag 38 |
 | Elias's gezondheid | Vage aanhoudende pijn linksonder in de romp, 3+ weken, vermijdt kliniek | dag 51 |
-| **Lena Voss** | **Naam verschenen in Mara's data (dag 50) — geen connectie gelegd** | dag 50 |
+| **Lena Voss** | Naam verschenen (dag 50); "someone I lost" bijna-onthulling (dag 69) — nog steeds geen connectie gelegd door Mara | dag 70 |
 | Mara gestuurd? | Geplant + geconfronteerd — onopgelost, bewust | dag 59 |
-| Zoete erwten | Volle eerste bloei, tweede golf komt op | dag 60 |
-| "Dit is zijn laatste seizoen" | Eerste terloopse hint, niet uitgelegd | dag 56 |
+| Zoete erwten | Alle drie bloeigolven uitgedoofd, zaad bewaard | dag 73 |
+| "Dit is zijn laatste seizoen" | Nooit expliciet herhaald na dag 61, maar gezondheid draagt het nu | dag 75 |
+| Elias's gezondheid | Geëscaleerd van vage pijn naar scherp/specifiek — hij erkent het tegenover Mara, gaat niet naar kliniek | dag 75 |
+| Daniels bezwaarschrift | Secondary Determination, 30-45 dagen | dag 72 |
 | Accord micro-anomalie | Nog niet geplant | — |
 
 ---

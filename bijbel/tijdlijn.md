@@ -95,3 +95,11 @@
 | 065 | 16 mei 2047 | Mara | **Formele waarschuwing: "unauthorized access to restricted materials."** Permanent op haar dossier. Vergelijkt het met wat het model Sector 9 aandoet, op kleinere schaal. |
 | 066 | 17 mei 2047 | Mara | Vertelt Elias. Hij: "You are the only person... who has refused to let herself stop looking." Erkent zijn eigen falen als contrast. |
 | 067 | 18 mei 2047 | Elias | Daniels voorlopig antwoord op het bezwaarschrift — geen ja, geen nee, wel beweging. Gesprek over de zoete erwten als eenjarigen: "no mercy, just seed, saved carefully, planted again." |
+| 068 | 19 mei 2047 | Elias | Begint zaad te bewaren van de eerste bloemen. Mara vraagt of hij het haar ooit wil leren — "yes." |
+| 069 | 20 mei 2047 | Mara | **Diep gesprek — deel 1.** Elias vertelt over zijn huwelijk, en over "someone I don't talk about... lost to silence." Stopt zichzelf — Lena bijna genoemd, niet met naam. |
+| 070 | 21 mei 2047 | Mara | Verwerkt het gesprek. Begrijpt: de tuin is geen vlucht, het is zijn enige eerlijke plek. Noteert: "He said 'someone I lost.' Not 'something.' Someone." |
+| 071 | 22 mei 2047 | Elias | De pijn verplaatst — omhoog en opzij. Vertelt Mara niets — bewust getimed, niet nog een zware waarheid in dezelfde week. Gaat door het zadenblik, 23 variëteiten sinds 2040. |
+| 072 | 23 mei 2047 | Mara | Daniels zaak gaat naar "Secondary Determination" — geen winst, wel serieuze escalatie. "Noted" krijgt eindelijk een warme klank. |
+| 073 | 24 mei 2047 | Elias | Derde bloeigolf dooft uit. Leert Mara zaden bewaren. Geeft haar een zakje mee: "somewhere you'd remember, if you needed to find it in a hurry." |
+| 074 | 25 mei 2047 | Elias | De pijn wordt scherp en specifiek — niet langer vaag. Herkent zijn eigen patroon ("not yet") toegepast op zijn eigen lichaam. Gaat nog steeds niet naar de kliniek. |
+| 075 | 26 mei 2047 | Mara | Confronteert hem rechtstreeks. Hij erkent de pijn voor het eerst hardop. "I won't pretend, with you, that this is nothing." **Einde fase 4.** |

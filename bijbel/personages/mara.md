@@ -95,5 +95,8 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 062 (draft) | De onderzoeker publiceert. "It's out. It's small. It's real." |
 | 065 (draft) | **Formele waarschuwing op haar dossier.** "It has my name on it now." |
 | 066 (draft) | Vertelt Elias. Hij noemt haar de enige die bleef kijken. |
+| 070 (draft) | Begrijpt de tuin als Elias' enige eerlijke plek. Noteert: "He said 'someone I lost.' Not 'something.' Someone." |
+| 072 (draft) | Daniels zaak escaleert naar Secondary Determination. |
+| 075 (draft) | Confronteert Elias rechtstreeks. Hij erkent de pijn. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.
