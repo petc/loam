@@ -117,8 +117,11 @@ def run_tool(name: str, input_data: dict) -> str:
         if name == "write_file":
             path = REPO_DIR / input_data["path"]
             path.parent.mkdir(parents=True, exist_ok=True)
-            path.write_text(input_data["content"], encoding="utf-8")
-            return f"OK: {len(input_data['content'])} tekens geschreven naar {input_data['path']}"
+            # Defensief: een leidend BOM-teken (U+FEFF) in de modeloutput breekt de
+            # YAML-frontmatter-parser in build.py stilzwijgend (zie dag 033-038 incident).
+            content = input_data["content"].lstrip("﻿")
+            path.write_text(content, encoding="utf-8")
+            return f"OK: {len(content)} tekens geschreven naar {input_data['path']}"
 
         if name == "list_files":
             pattern = str(REPO_DIR / input_data["pattern"])

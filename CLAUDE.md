@@ -38,7 +38,8 @@ Na elke schrijfsessie:
 2. `bijbel/tijdlijn.md` bijwerken — story-tijdlijn aanvullen
 3. Personagebestanden bijwerken — Verschijningen-sectie
 4. Intrigebestanden bijwerken — fase aanpassen als er iets is ontvouwd
-5. Committen en pushen
+5. **Codex bijwerken** — als dit fragment een nieuw personage, locatie of concept publiek maakt: nieuwe entry in `site/codex-entries/{characters|locations|concepts}/[naam-kebab-case].md` (stijl: zie bestaande entries — kort, encyclopedisch, Engels, `unlocked_by: [dagnummer]`). **Spoilerregel:** nooit vooruitlopen op een intrige die nog `🌱 geplant` of `💧 sluimerend` is in `bijbel/INDEX.md`. Bij twijfel: niet toevoegen.
+6. Committen en pushen (incl. `site/codex-entries/` indien gewijzigd)
 
 ---
 

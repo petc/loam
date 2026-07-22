@@ -60,7 +60,7 @@ def load_fragments():
     if not FRAGMENTS.exists():
         return fragments
     for path in FRAGMENTS.glob("*.md"):
-        post = frontmatter.load(str(path))
+        post = frontmatter.load(str(path), encoding="utf-8-sig")
         status = post.get("status", "")
         if status != "scheduled":
             continue
@@ -90,7 +90,7 @@ def load_codex(published_days):
         if not src_dir.exists():
             continue
         for path in sorted(src_dir.glob("*.md")):
-            post = frontmatter.load(str(path))
+            post = frontmatter.load(str(path), encoding="utf-8-sig")
             unlocked_by = int(post.get("unlocked_by", 99999))
             if unlocked_by not in published_days:
                 continue
