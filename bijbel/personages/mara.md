@@ -88,5 +88,9 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 049 (draft) | Beantwoordt resterende vragen. Risico op verlies van toegang benoemd. |
 | 050 (draft) | **Lena Voss verschijnt als naam** tijdens een cross-divisie clearance-audit (Sector 2). Geen flag, geen bewuste connectie — enkel een vaag "haken." |
 | 052 (draft) | Onderzoeker: stuk komt eraan, geanonimiseerd. Betrapt zichzelf op reageren op Sector 9's naam in de queue. |
+| 054 (draft) | Komt de eerste bloem zien. "There's no wrong colour." |
+| 056 (draft) | Ziet de volle rij in bloei. Hoort "this year it bothers me differently." |
+| 057 (draft) | Vindt de manuele override in haar routing-geschiedenis — **"Mara gestuurd?" geplant.** |
+| 059 (draft) | Confronteert Elias. "That's the part nobody gets to resolve." |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

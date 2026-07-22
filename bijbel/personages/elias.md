@@ -87,5 +87,9 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 046 (draft) | Daniel + de Whitlocks komen met formulieren. Helpt methodisch, feiten niet gevoel. |
 | 048 (draft) | Zoete erwten: eerste kleur in de knoppen. Loopt mee met Daniel naar het districtskantoor — eerste Accord-gebouw in jaren. |
 | 051 (draft) | Vroeg wakker, vage pijn linksonder in de romp, al drie weken. Vermijdt kliniek uit angst voor het systeem. |
+| 053 (draft) | Eerste zoete erwt bloeit. "She should see this." |
+| 055 (draft) | Vijf bloemen, bijen. Ontmoet Priya (Daniels vrouw). "The flowers are the point." |
+| 058 (draft) | Tweede supports. "Not yet" — herkent zijn eigen patroon. Daniel merkt vermoeidheid. |
+| 060 (draft) | Verwerkt Mara's vraag als spiegel van zijn eigen "was any of it mine?" |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

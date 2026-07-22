@@ -113,6 +113,7 @@ Alle namen — personen, straten, plaatsen — zijn Engelstalig. Geen Nederlands
 - **Petra** — Mara's collega, divisie verificatie.
 - De onderzoeker (naam nog te bepalen) — urban policy institute, schrijft over algoritmische governance.
 - **Daniel** (dag 43) — buurtbewoner Block 4, Sector 9. Vraagt Elias' hulp bij een bezwaarschrift; brengt ook de Whitlocks mee. Menselijke schaal naast de systemische dreiging in fase 3.
+- **Priya** (dag 55) — Daniels vrouw. Stille aanwezigheid; vraagt Elias rechtstreeks "is dit de hele bedoeling, of is er meer dan bloemen?"
 
 ## Tijdlijn verhaalkader
 

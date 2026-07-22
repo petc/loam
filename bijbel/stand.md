@@ -7,22 +7,22 @@
 
 ## Laatste fragment (draft, nog niet gevalideerd)
 
-- **Nummer:** 052
-- **Story-datum:** 3 mei 2047
-- **POV:** Mara
-- **Kern:** Vrijdag. De onderzoeker meldt dat het stuk er komt, geanonimiseerd, "weken, geen dagen." Mara werkt voorzichtig verder, geen nieuwe confrontaties. Ze betrapt zichzelf op het reageren op Sector 9's naam in haar queue "zoals je een gezicht zoekt in een menigte." Denkt aan Elias's pijn die hij afdeed. Rijdt de tram bewust om.
+- **Nummer:** 060
+- **Story-datum:** 11 mei 2047
+- **POV:** Elias
+- **Kern:** Zaterdag. Verwerkt Mara's onbeantwoorde vraag ("was any of it mine?") als spiegel van zijn eigen levenslange vraag over keuze vs. systeem. Tweede bloeigolf komt op naast de eerste die uitdooft. Gezondheid: ongewijzigd, bewust geen kliniek.
 
-*Let op: dag 039-052 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
+*Let op: dag 039-060 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 3 (De order), tweede helft — dag 33-052 geschreven (038 gescheduled, 039-052 draft).
+**Verhaalfase:** fase 4 (De bloei) — gestart dag 56. Dag 33-060 geschreven (038 gescheduled, 039-060 draft).
 
-Kernbeweging sinds dag 45: Daniel en de Whitlocks krijgen hulp met hun bezwaarschriften (dag 46, 48 — Elias loopt zelfs mee naar het districtskantoor). Mara's contact met de onderzoeker verdiept (dag 47, 49, 52) — het stuk komt er, geanonimiseerd, over enkele weken. **Dag 50: eerste verschijning van Lena Voss** — als naam in een routine clearance-audit, Sector 2. Mara legt de connectie niet — ze kent Elias's achternaam niet uit het verhaal zelf. Zuivere dramatische ironie voor de lezer. Elias's gezondheid verslechtert traag en gestaag (dag 51: vage pijn linksonder in de romp, al drie weken, hij vermijdt een kliniek uit angst voor het systeem, niet voor de pijn). De zoete erwten naderen bloei (eerste kleur in de knoppen, dag 48).
+Fase 3 sloot af met Daniel/Whitlocks' bezwaarschriften ingediend (case-nummers toegekend) en de onderzoeker die aankondigt dat het stuk eraan komt. Dag 50: **eerste verschijning Lena Voss** als naam in Mara's data (Sector 2, clearance-audit) — geen connectie gelegd, haar achternaam is nooit tussen de personages uitgesproken. Fase 4 opent met de volle bloei van de zoete erwten (dag 53-56) en de eerste terloopse hint dat Elias weet dat dit zijn laatste seizoen is ("this year it bothers me differently," dag 56, nog niet uitgelegd). Dag 57-59: de **"Mara gestuurd?"-intrige** wordt geplant én meteen ontwikkeld — Mara vindt een manuele override in haar eigen routing-geschiedenis (haar toewijzing aan Sector 9 was vier dagen vantevoren al vastgelegd, niet algoritmisch) en confronteert Elias. Hij weet het antwoord niet en zegt dat ook zo; de onzekerheid blijft bewust onopgelost. Nieuwe bijpersonages: Priya (Daniels vrouw, dag 55).
 
-Gezondheidshints: dag 34, 36, 38 (drie officiële hints), dag 39 en 51 herhalen/verdiepen het motief zonder als nieuwe "hint" geteld te worden — geleidelijke opbouw richting fase 4.
+Gezondheid: geen nieuwe officiële hint sinds dag 38, maar het motief wordt continu herhaald/verdiept (dag 51, 58, 60) — een aanhoudende, niet-verklaarde pijn linksonder in de romp. Elias vermijdt bewust een kliniek.
 
 ---
 
@@ -38,7 +38,9 @@ Gezondheidshints: dag 34, 36, 38 (drie officiële hints), dag 39 en 51 herhalen/
 | Klimroos | Nieuw uitlopertje langs de gantry | dag 38 |
 | Elias's gezondheid | Vage aanhoudende pijn linksonder in de romp, 3+ weken, vermijdt kliniek | dag 51 |
 | **Lena Voss** | **Naam verschenen in Mara's data (dag 50) — geen connectie gelegd** | dag 50 |
-| Mara gestuurd? | Nog niet geplant — gepland fase 3, ~dag 45-50 (verschoven, nog te doen) | — |
+| Mara gestuurd? | Geplant + geconfronteerd — onopgelost, bewust | dag 59 |
+| Zoete erwten | Volle eerste bloei, tweede golf komt op | dag 60 |
+| "Dit is zijn laatste seizoen" | Eerste terloopse hint, niet uitgelegd | dag 56 |
 | Accord micro-anomalie | Nog niet geplant | — |
 
 ---

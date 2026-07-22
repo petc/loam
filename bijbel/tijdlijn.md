@@ -80,3 +80,11 @@
 | 050 | 1 mei 2047 | Mara | **Eerste verschijning Lena (als naam in data).** Cross-divisie audit, Sector 2: "Lena Voss, systems integration architect, clearance matches." Geen flag, geen connectie gelegd — Mara merkt enkel een vaag, onverklaard "haken" van de naam. |
 | 051 | 2 mei 2047 | Elias | Vroeg wakker, vage pijn links onderin de romp, al drie weken. Gaat niet naar een kliniek — bang voor het systeem, niet voor de pijn. Zoete erwten dichtbij bloei. |
 | 052 | 3 mei 2047 | Mara | Onderzoeker: het stuk komt er, geanonimiseerd, "weken, geen dagen." Mara merkt zichzelf op die reageert op Sector 9's naam in de queue "zoals je een gezicht zoekt in een menigte." |
+| 053 | 4 mei 2047 | Elias | **Eerste zoete erwt bloeit.** Pale shell-pink. "She should see this." |
+| 054 | 5 mei 2047 | Mara | Komt de bloem zien. "There's no wrong colour." Zes knoppen dichtbij. |
+| 055 | 6 mei 2047 | Elias | Vijf bloemen open, bijen. Daniel + Priya (nieuw, Daniels vrouw) op bezoek. Whitlocks krijgen een casenummer. |
+| 056 | 7 mei 2047 | Mara | Volle rij in bloei. **"This year it bothers me differently"** — eerste terloopse hint dat dit zijn laatste seizoen is. |
+| 057 | 8 mei 2047 | Mara | Vindt een manuele override in de routing-logs: haar toewijzing aan Sector 9 was vier dagen vóór de flag al vastgelegd. **"Mara gestuurd?"-intrige geplant.** |
+| 058 | 9 mei 2047 | Elias | Tweede support-set. Denkt aan de onafgemaakte zin. "Not yet" — herkent het patroon, grijpt er toch naar. Daniel merkt dat hij moe is. |
+| 059 | 10 mei 2047 | Mara | Confronteert Elias met de override. Hij: "I don't know... Neither do you. That's the part nobody gets to resolve." |
+| 060 | 11 mei 2047 | Elias | Verwerkt haar vraag als spiegel van zijn eigen "was any of it mine?" Tweede bloeigolf komt op. Gezondheid ongewijzigd, bewust niet naar een kliniek. |
