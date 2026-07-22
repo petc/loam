@@ -15,6 +15,14 @@ Een vrouw vindt hem.
 
 ---
 
+## Status van het verhaal
+
+**Het volledige verhaal (dag 1-95) is geschreven.** Dag 001-038 zijn `scheduled` en live op readloam.com. Dag 039-095 staan als `draft` in `bijbel/fragmenten/drafts/`, wachtend op Peters proeflezing/validatie (zie Publicatieworkflow hieronder). Alle tabellen op deze pagina reflecteren de volledige tekst, inclusief drafts — waar relevant staat het dagnummer waarop iets nog draft is expliciet vermeld.
+
+Voor een volledige samenvatting van fase 3-5 (het draft-gedeelte) en een lijst van bewust open gelaten keuzes: zie [stand.md](stand.md).
+
+---
+
 ## De wet van dit verhaal
 
 - Het mag pijn doen. Het moet soms verscheuren.
@@ -29,9 +37,10 @@ Een vrouw vindt hem.
 
 | Naam | Status | Bestand | Laatste verschijning |
 |------|--------|---------|----------------------|
-| Elias Voss | actief — in de tuin | [elias.md](personages/elias.md) | dag 038 |
-| Mara | actief — document verstuurd, wacht op reactie onderzoeker | [mara.md](personages/mara.md) | dag 037 |
-| Lena Voss | afwezig — nog niet in verhaal | [lena.md](personages/lena.md) | — (gepland ~dag 050) |
+| Elias Voss | (draft) tuin gesloopt dag 93-94; in kankerbehandeling; slotbeeld dag 95 | [elias.md](personages/elias.md) | dag 095 (draft) |
+| Mara | (draft) verloor toegang tot Sector 9-data (dag 86); weet nu van Lena | [mara.md](personages/mara.md) | dag 095 (draft) |
+| Daniel | (draft) buurtbewoner Block 4, nieuw sinds dag 43 — bezwaarschrift gedeeltelijk gewonnen (dag 81) | *(geen eigen bestand — zie elias.md/ARC.md)* | dag 093 (draft) |
+| Lena Voss | (draft) nog niet fysiek verschenen — genoemd dag 50 (data), 85 (onthulling aan Mara), 91 (pakketje afgeleverd, geen reactie) | [lena.md](personages/lena.md) | — (nooit fysiek in beeld; bewust) |
 
 ---
 
@@ -39,9 +48,9 @@ Een vrouw vindt hem.
 
 | Naam | Status | Bestand | Laatste vermelding |
 |------|--------|---------|-------------------|
-| De Tuin | actief — open lucht, spoorwegterrein | [de-tuin.md](locaties/de-tuin.md) | dag 032 |
+| De Tuin | (draft) **gesloopt dag 93-94** — bestaat niet meer | [de-tuin.md](locaties/de-tuin.md) | dag 095 (draft) |
 | De Stad | achtergrond | [de-stad.md](locaties/de-stad.md) | dag 025 |
-| Sector 9 | escalerend — ZVA voltooid | [sector-9.md](locaties/sector-9.md) | dag 029 |
+| Sector 9 | (draft) remediatie voltrokken — zie De Tuin | [sector-9.md](locaties/sector-9.md) | dag 093 (draft) |
 
 ---
 
@@ -49,12 +58,14 @@ Een vrouw vindt hem.
 
 | Naam | Fase | Bestand |
 |------|------|---------|
-| The Accord — wat schuift er? | 💧 sluimerend | [the-accord.md](intriges/the-accord.md) |
-| Lena — waar is ze? | 🌱 geplant | [lena-voss.md](intriges/lena-voss.md) |
-| Mara — gestuurd of gevonden? | 🌱 geplant | [mara-gestuurd.md](intriges/mara-gestuurd.md) |
-| Elias — wat heeft hij gedaan? | 💧 sluimerend | [elias-verleden.md](intriges/elias-verleden.md) |
+| The Accord — wat schuift er? (de micro-anomalie) | 💧 sluimerend — **nooit geplant binnen dag 1-95, losse draad** | [the-accord.md](intriges/the-accord.md) |
+| Lena — waar is ze? | 🍂 resolutie (draft, dag 84-91) — Elias' kant afgehandeld, Lena's reactie bewust onopgelost | [lena-voss.md](intriges/lena-voss.md) |
+| Mara — gestuurd of gevonden? | 🍂 resolutie (draft, dag 57-59) — vraag gesteld en confronterend, bewust nooit beantwoord | [mara-gestuurd.md](intriges/mara-gestuurd.md) |
+| Elias — wat heeft hij gedaan? | 🍂 resolutie (draft) — vrijwel alles onthuld aan Mara, incl. Lena (dag 85) | [elias-verleden.md](intriges/elias-verleden.md) |
 
 Fasen: 🌱 geplant / 💧 sluimerend / 🔥 escalerend / 💥 climax / 🍂 resolutie
+
+**Let op:** de Accord-micro-anomalie ("wat schuift er in de architectuur") is de enige intrige uit de oorspronkelijke bijbel die nooit is geplant binnen de geschreven 95 dagen — `stand.md` bleef hem het hele verhaal door als "nog niet geplant" vermelden. Dit is een bewuste, expliciete lacune, geen fout: de lange boog die `intriges/the-accord.md` beschrijft ("dit is de climax van seizoen 1") past niet meer binnen dag 1-95 zoals het verhaal zich ontwikkeld heeft. Peter kan beslissen of dit losse eind blijft liggen (een verhaal mag onbeantwoorde vragen hebben) of dat het alsnog een plek moet krijgen bij het herzien van de drafts.
 
 ---
 
@@ -62,15 +73,16 @@ Fasen: 🌱 geplant / 💧 sluimerend / 🔥 escalerend / 💥 climax / 🍂 res
 
 ### Schrijven (per batch van 7)
 1. Claude schrijft 7 fragmenten in één sessie — met geplande bogen over de hele batch
-2. Elk fragment opslaan als `bijbel/fragmenten/drafts/dag-XXX.md` met frontmatter:
+2. Elk fragment opslaan als `bijbel/fragmenten/drafts/0XX.md` (drie cijfers, geen "dag-"-prefix — zie `scripts/loam-schrijver-prompt.md`) met frontmatter:
    ```
    ---
-   dag: 001
-   deploy_date: 2026-07-01
-   story_date: "March 15, 2047"
+   day: 39
+   deploy_date: 2026-07-25
+   story_date: "April 20, 2047"
    status: draft
    ---
    ```
+   Let op: het frontmatter-veld heet `day`, niet `dag` — dit werd hier eerder verkeerd gedocumenteerd.
 3. Peter verwittigen via Telegram: "LOAM — Batch DAG XXX–XXX klaar voor proeflezen"
 4. Volledige tekst van elke fragment in aparte Telegram-berichten
 
