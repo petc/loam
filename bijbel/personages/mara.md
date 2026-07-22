@@ -84,5 +84,9 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 042 (draft) | Supervisor confronteert haar over haar toegangslogs. "Stop." Ze antwoordt "we're understood" — dubbelzinnig, hij begrijpt het anders dan zij het bedoelt. |
 | 044 (draft) | Gaat op zaterdag naar de tuin, vertelt Elias over de confrontatie. Hij: "Aim higher than what I managed." |
 | 045 (draft) | De onderzoeker antwoordt — wil praten, geen naam nodig voor een eerste gesprek. Mara schrijft: "She read it. She wants to talk." |
+| 047 (draft) | Eerste gesprek met de onderzoeker (anoniem, publiek terminal). Vraag: "Are you safe?" — "I don't know yet." |
+| 049 (draft) | Beantwoordt resterende vragen. Risico op verlies van toegang benoemd. |
+| 050 (draft) | **Lena Voss verschijnt als naam** tijdens een cross-divisie clearance-audit (Sector 2). Geen flag, geen bewuste connectie — enkel een vaag "haken." |
+| 052 (draft) | Onderzoeker: stuk komt eraan, geanonimiseerd. Betrapt zichzelf op reageren op Sector 9's naam in de queue. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

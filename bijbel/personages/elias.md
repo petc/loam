@@ -84,5 +84,8 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 041 (draft) | Ziet de impact van de notificatie aan hoe mensen bewegen. Mrs. Okafor op de markt — koopt onnodige uien als klein gebaar. |
 | 043 (draft) | Ontmoet Daniel (nieuw personage, Block 4) aan het hek. Zegt toe te helpen met een bezwaarschrift. Geeft zaadjes mee. |
 | 044 (draft) | Mara vertelt over de supervisor-confrontatie. "Aim higher than what I managed." |
+| 046 (draft) | Daniel + de Whitlocks komen met formulieren. Helpt methodisch, feiten niet gevoel. |
+| 048 (draft) | Zoete erwten: eerste kleur in de knoppen. Loopt mee met Daniel naar het districtskantoor — eerste Accord-gebouw in jaren. |
+| 051 (draft) | Vroeg wakker, vage pijn linksonder in de romp, al drie weken. Vermijdt kliniek uit angst voor het systeem. |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

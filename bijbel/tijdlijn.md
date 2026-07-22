@@ -73,3 +73,10 @@
 | 043 | 24 april 2047 | Elias | Daniel (Block 4) vraagt hulp bij het bezwaarschrift. Elias zegt toe. Geeft zaadjes mee. |
 | 044 | 25 april 2047 | Mara | Ze gaat op zaterdag naar de tuin, vertelt over de supervisor. Elias: "Aim higher than what I managed." |
 | 045 | 26 april 2047 | Mara | De onderzoeker antwoordt — voorzichtig, geïnteresseerd, wil praten. Mara schrijft: "She read it. She wants to talk." |
+| 046 | 27 april 2047 | Elias | Daniel en de Whitlocks komen met formulieren. Elias helpt methodisch — feiten, geen gevoel. Mrs. Whitlock: "You keep things when you've learned nobody else will." |
+| 047 | 28 april 2047 | Mara | Eerste echt gesprek met de onderzoeker (anoniem). Vraag: "Are you safe?" Antwoord: "I don't know yet." |
+| 048 | 29 april 2047 | Elias | Zoete erwten krijgen eerste kleur in de knoppen. Loopt met Daniel mee naar het districtskantoor — eerste keer in jaren dat hij een Accord-gebouw binnengaat. |
+| 049 | 30 april 2047 | Mara | Beantwoordt resterende vragen onderzoeker. Risico op verlies van toegang benoemd. "Thank you for being careful with me." |
+| 050 | 1 mei 2047 | Mara | **Eerste verschijning Lena (als naam in data).** Cross-divisie audit, Sector 2: "Lena Voss, systems integration architect, clearance matches." Geen flag, geen connectie gelegd — Mara merkt enkel een vaag, onverklaard "haken" van de naam. |
+| 051 | 2 mei 2047 | Elias | Vroeg wakker, vage pijn links onderin de romp, al drie weken. Gaat niet naar een kliniek — bang voor het systeem, niet voor de pijn. Zoete erwten dichtbij bloei. |
+| 052 | 3 mei 2047 | Mara | Onderzoeker: het stuk komt er, geanonimiseerd, "weken, geen dagen." Mara merkt zichzelf op die reageert op Sector 9's naam in de queue "zoals je een gezicht zoekt in een menigte." |

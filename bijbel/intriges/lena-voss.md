@@ -20,13 +20,13 @@ Ergens in de tuin is iets wat van Lena is, of voor haar bedoeld is. Een plantje 
 
 ## Gepland tijdpad
 
-- **Dag ~50:** Lena Voss verschijnt als naam in Mara's werkdata — een routine-verificatie in Sector 2. Mara weet de verbinding nog niet. De lezer begint te vermoeden.
+- **Dag 50 (gedaan):** Lena Voss verschijnt als naam in Mara's werkdata — cross-divisie clearance-audit, Sector 2, "systems integration architect." Geen flag. Mara merkt alleen een vaag, onverklaard "haken" van de naam — geen bewuste connectie. Belangrijk: Mara kent Elias's achternaam niet uit het verhaal zelf (nooit gebruikt in dialoog t/m dag 52) — de lezer die de codex/personagenaam wél kent, ervaart dramatische ironie; Mara (nog) niet.
 - **Fase 4 (~dag 60–75):** Elias vertelt Mara iets over zijn leven vóór de tuin — niet het werk, maar wat hij verloor. Lena wordt *bijna* bij naam genoemd.
 - **Fase 4–5:** Als Elias's gezondheid duidelijker wordt, ontstaat de vraag: moet Lena weten dat hij leeft?
 - **Fase 5 (climax):** Elias neemt een beslissing over Lena. Of hij stuurt haar iets — indirect, via een derde. Of hij stuurt niets. De lezer weet wat hij kiest en waarom.
 
 ## Wat nog niet in het verhaal staat
 
-- Lena's naam is nog niet gevallen in de fragmenten
+- Elias's achternaam is nog niet uitgesproken tussen de personages — dit moment bewaren, het is een instrument voor een latere herkenning (Mara moet ooit "Voss" horen en het zich herinneren uit de audit van dag 50)
 - Het flaconnetje met haar geboortejaar (2003) ligt ergens in de tuin — Mara moet het vinden
 - Elias weet waar ze is en houdt contact op afstand (via data die hij nog kan lezen)
