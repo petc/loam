@@ -92,5 +92,8 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 056 (draft) | Ziet de volle rij in bloei. Hoort "this year it bothers me differently." |
 | 057 (draft) | Vindt de manuele override in haar routing-geschiedenis — **"Mara gestuurd?" geplant.** |
 | 059 (draft) | Confronteert Elias. "That's the part nobody gets to resolve." |
+| 062 (draft) | De onderzoeker publiceert. "It's out. It's small. It's real." |
+| 065 (draft) | **Formele waarschuwing op haar dossier.** "It has my name on it now." |
+| 066 (draft) | Vertelt Elias. Hij noemt haar de enige die bleef kijken. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.

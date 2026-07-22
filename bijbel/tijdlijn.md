@@ -88,3 +88,10 @@
 | 058 | 9 mei 2047 | Elias | Tweede support-set. Denkt aan de onafgemaakte zin. "Not yet" — herkent het patroon, grijpt er toch naar. Daniel merkt dat hij moe is. |
 | 059 | 10 mei 2047 | Mara | Confronteert Elias met de override. Hij: "I don't know... Neither do you. That's the part nobody gets to resolve." |
 | 060 | 11 mei 2047 | Elias | Verwerkt haar vraag als spiegel van zijn eigen "was any of it mine?" Tweede bloeigolf komt op. Gezondheid ongewijzigd, bewust niet naar een kliniek. |
+| 061 | 12 mei 2047 | Elias | Stille zondag. Formuleert voor zichzelf (niet hardop): "I don't think I'll see the flush after this one." |
+| 062 | 13 mei 2047 | Mara | **De onderzoeker publiceert de column** — geanonimiseerd, het compounding-mechanisme "staat bij naam in de wereld." |
+| 063 | 14 mei 2047 | Elias | Mara vertelt over de publicatie. Zijn reactie: geen opluchting, verdriet — "I spent nine years being the only person who knew." |
+| 064 | 15 mei 2047 | Elias | Kan niet meer comfortabel knielen. Rekent de weken uit. Beslist bewust niet naar de kliniek te gaan — bang voor wat hij zou weten, niet enkel voor het systeem. |
+| 065 | 16 mei 2047 | Mara | **Formele waarschuwing: "unauthorized access to restricted materials."** Permanent op haar dossier. Vergelijkt het met wat het model Sector 9 aandoet, op kleinere schaal. |
+| 066 | 17 mei 2047 | Mara | Vertelt Elias. Hij: "You are the only person... who has refused to let herself stop looking." Erkent zijn eigen falen als contrast. |
+| 067 | 18 mei 2047 | Elias | Daniels voorlopig antwoord op het bezwaarschrift — geen ja, geen nee, wel beweging. Gesprek over de zoete erwten als eenjarigen: "no mercy, just seed, saved carefully, planted again." |

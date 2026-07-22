@@ -7,22 +7,22 @@
 
 ## Laatste fragment (draft, nog niet gevalideerd)
 
-- **Nummer:** 060
-- **Story-datum:** 11 mei 2047
+- **Nummer:** 067
+- **Story-datum:** 18 mei 2047
 - **POV:** Elias
-- **Kern:** Zaterdag. Verwerkt Mara's onbeantwoorde vraag ("was any of it mine?") als spiegel van zijn eigen levenslange vraag over keuze vs. systeem. Tweede bloeigolf komt op naast de eerste die uitdooft. Gezondheid: ongewijzigd, bewust geen kliniek.
+- **Kern:** Zondag. Daniel krijgt een voorlopig, niet-afwijzend antwoord op zijn bezwaarschrift. Gesprek over zoete erwten als eenjarigen — "no mercy, just seed, saved carefully, planted again" — een bijna-onthulling die Daniel niet doorvraagt.
 
-*Let op: dag 039-060 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
+*Let op: dag 039-067 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter.*
 
 ---
 
 ## Waar staan we
 
-**Verhaalfase:** fase 4 (De bloei) — gestart dag 56. Dag 33-060 geschreven (038 gescheduled, 039-060 draft).
+**Verhaalfase:** fase 4 (De bloei), midden — dag 33-067 geschreven (038 gescheduled, 039-067 draft).
 
-Fase 3 sloot af met Daniel/Whitlocks' bezwaarschriften ingediend (case-nummers toegekend) en de onderzoeker die aankondigt dat het stuk eraan komt. Dag 50: **eerste verschijning Lena Voss** als naam in Mara's data (Sector 2, clearance-audit) — geen connectie gelegd, haar achternaam is nooit tussen de personages uitgesproken. Fase 4 opent met de volle bloei van de zoete erwten (dag 53-56) en de eerste terloopse hint dat Elias weet dat dit zijn laatste seizoen is ("this year it bothers me differently," dag 56, nog niet uitgelegd). Dag 57-59: de **"Mara gestuurd?"-intrige** wordt geplant én meteen ontwikkeld — Mara vindt een manuele override in haar eigen routing-geschiedenis (haar toewijzing aan Sector 9 was vier dagen vantevoren al vastgelegd, niet algoritmisch) en confronteert Elias. Hij weet het antwoord niet en zegt dat ook zo; de onzekerheid blijft bewust onopgelost. Nieuwe bijpersonages: Priya (Daniels vrouw, dag 55).
+Sinds dag 60: een stille zondag (61) waarin Elias voor zichzelf, niet hardop, de zin afmaakt die hij eerder liet hangen — hij denkt dat hij de volgende bloeigolf niet zal meemaken. Dag 62-63: **de onderzoeker publiceert de column** — geanonimiseerd, het compounding-mechanisme is nu publiek. Elias' reactie is geen opluchting maar verdriet: negen jaar de enige die het wist, nu gedeeld met vreemden. Dag 64: Elias kan niet meer comfortabel knielen, rekent de weken uit, kiest bewust nog steeds geen kliniek — deels uit angst voor het systeem, deels uit angst voor de diagnose zelf. Dag 65-66: Mara krijgt een **formele waarschuwing** ("unauthorized access to restricted materials"), permanent op haar dossier — vergelijkt het zelf met wat het model Sector 9 aandoet, op kleinere schaal. Elias erkent tegenover haar zijn eigen falen als contrast: zij betaalde iets, hij betaalde niets en droeg de stilte. Dag 67: Daniels bezwaarschrift krijgt een voorlopig, niet-negatief antwoord.
 
-Gezondheid: geen nieuwe officiële hint sinds dag 38, maar het motief wordt continu herhaald/verdiept (dag 51, 58, 60) — een aanhoudende, niet-verklaarde pijn linksonder in de romp. Elias vermijdt bewust een kliniek.
+Gezondheid: motief blijft continu aanwezig (dag 64 grote uitwerking) zonder als "nieuwe hint" geteld te worden — de aftakeling is nu een constante ondertoon, geen losse momenten meer.
 
 ---
 

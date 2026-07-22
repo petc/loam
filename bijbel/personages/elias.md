@@ -91,5 +91,9 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 055 (draft) | Vijf bloemen, bijen. Ontmoet Priya (Daniels vrouw). "The flowers are the point." |
 | 058 (draft) | Tweede supports. "Not yet" — herkent zijn eigen patroon. Daniel merkt vermoeidheid. |
 | 060 (draft) | Verwerkt Mara's vraag als spiegel van zijn eigen "was any of it mine?" |
+| 063 (draft) | Reageert op de publicatie van de onderzoeker: verdriet, niet opluchting. "I spent nine years being the only person who knew." |
+| 064 (draft) | Kan niet meer comfortabel knielen. Rekent de weken uit. Kiest bewust geen kliniek. |
+| 066 (draft) | Erkent tegenover Mara zijn eigen falen als contrast met haar moed. |
+| 067 (draft) | Daniels voorlopig antwoord. "No mercy, just seed, saved carefully, planted again." |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.
