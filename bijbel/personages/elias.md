@@ -80,5 +80,9 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 034 | In de tuin, vroeg. Zoete erwten testen de draad — hij bindt ze in. Denkt aan het document. Onionsets komen door. Zit op de bank eerder dan gewoonlijk, zonder koffie. Werkt door. |
 | 036 | Vrijdagochtend. Compost, brassica's, zoete erwten groeien. Stopt halverwege een rij zonder reden — staat stil, gaat dan verder. Zit op de bank met koffie die koud wordt. Denkt aan Mara (gisteren: "good"). Schrijft drie regels in notitieboek. Werkt door. |
 | 038 | Zondagochtend, vóór vijf. Bieten dunnen. Derde gezondheidshint: staat anders op na knielen — hand op de grond, een pauze, dan omhoog. Iets lager in de romp, al weken anders; gaat er niet op in. Afgewezen zaailingen in de compostbak zonder er nog naar te kijken. Klimroos: nieuw uitlopertje langs de gantry. Kent het Accord-schema — "approximately", niet preciezer. |
+| 039 (draft) | Bindt zoete erwten vast. Mrs. Aldous meldt de sectorbrede notice. Hij kent de passieve zin van binnenuit. |
+| 041 (draft) | Ziet de impact van de notificatie aan hoe mensen bewegen. Mrs. Okafor op de markt — koopt onnodige uien als klein gebaar. |
+| 043 (draft) | Ontmoet Daniel (nieuw personage, Block 4) aan het hek. Zegt toe te helpen met een bezwaarschrift. Geeft zaadjes mee. |
+| 044 (draft) | Mara vertelt over de supervisor-confrontatie. "Aim higher than what I managed." |
 
 **Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

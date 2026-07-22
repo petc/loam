@@ -65,3 +65,11 @@
 | 035 | 16 april 2047 | Mara | Ze gaat na het werk naar Sector 9. Vertelt hem dat ze het heeft gestuurd — dinsdag, 07:12. Hij zegt "good." Ze kijkt naar de zoete erwten. Vraagt naar de rankbeweging: *circumnutation.* Ze vertrekt. |
 | 036 | 17 april 2047 | Elias | Vrijdagochtend. Compost, brassica's, zoete erwten. Hij stopt halverwege een rij, staat stil zonder reden, gaat dan verder. "He has been doing this for a while." Denkt aan Mara van gisteravond. "What comes next is not in the garden. He is in the garden." Schrijft notitieboek, werkt door. |
 | 037 | 18 april 2047 | Mara | Zaterdagochtend thuis. Celia in de keuken. Mara checkt inbox en de publieke pagina van de onderzoeker (niet bijgewerkt sinds februari). Niets. Ze gaat naar de markt — altijd south, heeft nooit gevraagd waarom. Koopt twee sinaasappels. Thuis: ze wacht. |
+| 038 | 19 april 2047 | Elias | Zondagochtend, vóór vijf. Bieten dunnen. Derde gezondheidshint: staat anders op na knielen. Klimroos: nieuw uitlopertje. Kent het Accord-schema — "approximately." |
+| 039 | 20 april 2047 | Elias | Zoete erwten vastbinden. Mrs. Aldous meldt de sectorbrede notice op het mededelingenbord. Hij weet exact wat de passieve zin betekent. |
+| 040 | 21 april 2047 | Mara | De notificatie verschijnt (ter info) in haar queue. Petra waarschuwt: "curiosity shows up in your metrics." |
+| 041 | 22 april 2047 | Elias | Ziet de impact aan hoe mensen bewegen — niet aan papieren. Mrs. Okafor op de markt. Hij koopt onnodige uien. |
+| 042 | 23 april 2047 | Mara | Supervisor confronteert haar over haar toegangslogs. "Stop." Ze antwoordt "we're understood" — dubbelzinnig. |
+| 043 | 24 april 2047 | Elias | Daniel (Block 4) vraagt hulp bij het bezwaarschrift. Elias zegt toe. Geeft zaadjes mee. |
+| 044 | 25 april 2047 | Mara | Ze gaat op zaterdag naar de tuin, vertelt over de supervisor. Elias: "Aim higher than what I managed." |
+| 045 | 26 april 2047 | Mara | De onderzoeker antwoordt — voorzichtig, geïnteresseerd, wil praten. Mara schrijft: "She read it. She wants to talk." |

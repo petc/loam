@@ -112,6 +112,7 @@ Alle namen — personen, straten, plaatsen — zijn Engelstalig. Geen Nederlands
 - **Celia** — Mara's flatmate, logistiek coördinator Accord.
 - **Petra** — Mara's collega, divisie verificatie.
 - De onderzoeker (naam nog te bepalen) — urban policy institute, schrijft over algoritmische governance.
+- **Daniel** (dag 43) — buurtbewoner Block 4, Sector 9. Vraagt Elias' hulp bij een bezwaarschrift; brengt ook de Whitlocks mee. Menselijke schaal naast de systemische dreiging in fase 3.
 
 ## Tijdlijn verhaalkader
 

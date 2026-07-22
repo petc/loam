@@ -80,5 +80,9 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 033 | Ze verstuurt het document om 07:12. Stilte. Ze beseft dat ze Elias niet digitaal kan bereiken. Ze opent haar queue en werkt verder. |
 | 035 | Donderdagavond na het werk naar Sector 9. Vertelt Elias dat ze het heeft gestuurd. Hij zegt "good." Ze kijkt naar de zoete erwten, vraagt naar de rankbeweging. Ze vertrekt. |
 | 037 | Zaterdagochtend thuis met Celia. Checkt haar inbox en de publieke pagina van de onderzoeker — niets. Gaat naar de markt: altijd south, heeft zich nooit afgevraagd waarom. Thuis met twee sinaasappels. Wachten. |
+| 040 (draft) | Notificatie in haar queue (ter info). Petra waarschuwt impliciet: "curiosity shows up in your metrics." |
+| 042 (draft) | Supervisor confronteert haar over haar toegangslogs. "Stop." Ze antwoordt "we're understood" — dubbelzinnig, hij begrijpt het anders dan zij het bedoelt. |
+| 044 (draft) | Gaat op zaterdag naar de tuin, vertelt Elias over de confrontatie. Hij: "Aim higher than what I managed." |
+| 045 (draft) | De onderzoeker antwoordt — wil praten, geen naam nodig voor een eerste gesprek. Mara schrijft: "She read it. She wants to talk." |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.
