@@ -107,7 +107,7 @@ Alle namen — personen, straten, plaatsen — zijn Engelstalig. Geen Nederlands
 ## Sleutelfiguren
 
 - **Elias** — 71, bouwde het allocatiemodel (2036) en het ZVA-protocol (2034). Woont in de tuin sinds 2040. Is ziek. Weet het.
-- **Mara** — verificatiemedewerker Accord, ~25. Sloot de flag in maart 2047. Stuurt het document.
+- **Mara** — verificatiemedewerker Accord, 21. Sloot de flag in maart 2047. Stuurt het document.
 - **Owen** — de man die Elias de kamer verhuurde, vier jaar geleden gestorven.
 - **Celia** — Mara's flatmate, logistiek coördinator Accord.
 - **Petra** — Mara's collega, divisie verificatie.

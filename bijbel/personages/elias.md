@@ -42,7 +42,7 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | Persoon | Relatie | Stand |
 |---------|---------|-------|
 | Lena Voss | dochter | ze denkt dat hij dood is; hij weet waar ze is |
-| Mara | onbekende die hij wegjaagt | zie verhaal |
+| Mara | vertrouwelinge — draagt nu mee wat hij alleen droeg | zie verhaal |
 
 ---
 
@@ -72,12 +72,13 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 018 | Op de bank op zondag. Ze zegt "that's not enough." Hij: "It isn't. It's what I have." |
 | 020 | Realiseert boos te zijn — voor het eerst in jaren. Seedlings foggen het glas. |
 | 022 | Vijf zoete erwten ontkiemen. "Someone brought these here." |
-| 024 | Zaden sorteren. Owen's pot. "I've been waiting to be asked that for eleven years." |
+| 024 | Zaden sorteren. Owen's pot. "I've been waiting to be asked that for seven years." |
 | 026 | Vertelt over compounding-mechanisme. "I want you to have it." Ze zegt *okay*. |
 | 028 | Plant uiensets — voor zichzelf, niet voor de tuin. Denkt aan haar document. |
 | 030 | Zoete erwten testen de draad. "The interim is the point." |
 | 032 | Ze zegt ze gaat het sturen. Hij: "Yes." Ze vertrekt. Hij werkt door.  |
 | 034 | In de tuin, vroeg. Zoete erwten testen de draad — hij bindt ze in. Denkt aan het document. Onionsets komen door. Zit op de bank eerder dan gewoonlijk, zonder koffie. Werkt door. |
 | 036 | Vrijdagochtend. Compost, brassica's, zoete erwten groeien. Stopt halverwege een rij zonder reden — staat stil, gaat dan verder. Zit op de bank met koffie die koud wordt. Denkt aan Mara (gisteren: "good"). Schrijft drie regels in notitieboek. Werkt door. |
+| 038 | Zondagochtend, vóór vijf. Bieten dunnen. Derde gezondheidshint: staat anders op na knielen — hand op de grond, een pauze, dan omhoog. Iets lager in de romp, al weken anders; gaat er niet op in. Afgewezen zaailingen in de compostbak zonder er nog naar te kijken. Klimroos: nieuw uitlopertje langs de gantry. Kent het Accord-schema — "approximately", niet preciezer. |
 
-**Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie) en dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count."). Nooit aangekondigd, nooit verklaard.
+**Gezondheid:** hints geplant in dag 034 ("what he takes in the morning", hand op paal, vroeg zitten zonder koffie), dag 036 (stopt midden in een beweging zonder reden, "He has been doing this for a while. He has never kept count.") en dag 038 (staat anders op na knielen — "a hand on the ground, a beat, then up"; iets lager in de romp dat al weken anders is). Nooit aangekondigd, nooit verklaard.

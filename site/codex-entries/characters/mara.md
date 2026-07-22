@@ -8,4 +8,4 @@ Twenty-one years old. Data verifier for The Accord — she checks that the syste
 
 She reads people the way she reads data: looking for the gap between what something claims to be and what it actually does.
 
-She found the garden herself. Or she was sent to find it. She has not decided which story she believes.
+She found the garden while processing an environmental anomaly flag — the kind of thing she closes dozens of times a week without a second thought. This one, she didn't close so easily.

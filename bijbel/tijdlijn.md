@@ -19,7 +19,7 @@
 | 2041 | Elias verdwijnt uit The Accord's locatiedata. Zijn dossier bestaat nog — zijn positie niet. Zijn formele adres in het systeem: een lege kamer op de vierde verdieping van een gedeeltelijk herbestemd blok. Niemand heeft gecontroleerd. |
 | 2043 | Lena Voss (dochter van Elias, geboren 2003) trouwt. Hoge relevantiescore. Systeemintegratie-architect bij The Accord, Sector 2. Ze gelooft dat haar vader stierf in 2041 — er was een melding, een afsluiting in zijn dossier. Ze heeft nooit een lichaam gezien. Owen (de man die Elias zijn kamer in Fenwick Block verhuurde) overlijdt. |
 | 2044 | Northern Expansion planning framework goedgekeurd door The Accord. Tienjarenplan voor logistieke en transitinfrastructuur in ondergebruikte zones. Sector 9 staat op de kaart als Priority Corridor — Phase 2 (start 2048). |
-| 2046 | Mara begint als data-verificatrice bij The Accord, werkplek in Sector 9. |
+| 2045 | Mara begint als data-verificatrice bij The Accord, werkplek in Sector 9. |
 | **2047** | **Verhaal begint.** |
 
 ---
