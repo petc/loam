@@ -11,3 +11,5 @@ In practice: the procedure that decides whether a place still earns its upkeep. 
 Most ZVAs, Accord staff will tell you, come to nothing. Most are routine, low-priority, filed and forgotten.
 
 Not all of them.
+
+When a zone moves toward remediation, residents receive a notice — sector-wide, worded to inform without alarming. It opens an appeal window: ninety days, forms, a process that is slow by design. Most appeals change nothing. That does not make them nothing.

@@ -10,4 +10,6 @@ People end up here because they cannot leave, or will not. More elderly resident
 
 There is a market on Wednesdays. Not permitted. Not banned either. The Accord ignores it — the footprint is too small to be worth optimising.
 
+A corkboard by the water point carries notices for residents — what people need, what they have to trade. In spring 2047, a sector-wide infrastructure review notice appears there too. It promises nothing and threatens nothing directly. People read it and keep walking.
+
 Elias Voss rents a room here from a man who is no longer alive. The system has not noticed. Nobody has checked.

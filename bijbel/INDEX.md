@@ -17,7 +17,7 @@ Een vrouw vindt hem.
 
 ## Status van het verhaal
 
-**Het volledige verhaal (dag 1-95) is geschreven.** Dag 001-038 zijn `scheduled` en live op readloam.com. Dag 039-095 staan als `draft` in `bijbel/fragmenten/drafts/`, wachtend op Peters proeflezing/validatie (zie Publicatieworkflow hieronder). Alle tabellen op deze pagina reflecteren de volledige tekst, inclusief drafts — waar relevant staat het dagnummer waarop iets nog draft is expliciet vermeld.
+**Het volledige verhaal (dag 1-95) is geschreven.** Alle fragmenten staan als `scheduled` in `bijbel/fragmenten/` (de map `drafts/` is leeg — Peter heeft alles gevalideerd). Publicatie op readloam.com volgt automatisch via `deploy_date <= vandaag`: dag 001-056 zijn hierdoor inmiddels live, dag 057-095 zijn wel gescheduled maar hun deploy_date ligt nog in de toekomst en zijn dus nog niet zichtbaar. Alle tabellen op deze pagina reflecteren de volledige tekst (dag 1-95) — waar relevant staat vermeld wat nog niet live is.
 
 Voor een volledige samenvatting van fase 3-5 (het draft-gedeelte) en een lijst van bewust open gelaten keuzes: zie [stand.md](stand.md).
 
