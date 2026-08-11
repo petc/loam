@@ -5,14 +5,14 @@
 
 ---
 
-## HET VERHAAL IS VOLLEDIG GESCHREVEN (dag 1-95), IN DRAFT
+## HET VERHAAL IS VOLLEDIG GESCHREVEN (dag 1-95)
 
 - **Laatste fragment: 095**
 - **Story-datum:** 30 juli 2047
 - **POV:** Elias
 - **Kern:** Slotbeeld. Elias ontwaakt zonder tuin om naar toe te gaan. Mara komt langs. Hij toont haar de twee zaadjes van Owen die hij apart hield — "two is honest... whatever soil I find next, if I find any at all." Het verhaal sluit niet op verlossing, maar op continuïteit: hij is nog altijd iemand die een zaad meedraagt.
 
-*Let op: dag 039-095 zijn geschreven als drafts in `bijbel/fragmenten/drafts/`, nog niet gevalideerd/gescheduled door Peter. Alleen dag 001-038 zijn `scheduled` en live. Peter moet dag 039-095 proeflezen/valideren vóór ze gepubliceerd worden (status draft → scheduled, verplaatsen naar `bijbel/fragmenten/`), conform de bestaande workflow (batch-review, taalcontrole via Telegram).*
+*Let op: alle 95 fragmenten zijn gevalideerd en staan `status: scheduled` in `bijbel/fragmenten/` (de `drafts/`-map is leeg). Dag 1-56 zijn live op readloam.com (`deploy_date <= vandaag`, laatste peiling 2026-08-11); dag 57-95 zijn gepubliceerd-in-wachtrij, hun `deploy_date` ligt nog in de toekomst en `publish.yml` toont ze automatisch zodra die datum bereikt is.*
 
 ---
 

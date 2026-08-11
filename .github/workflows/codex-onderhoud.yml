@@ -1,0 +1,38 @@
+name: LOAM — Codex-onderhoud
+
+on:
+  schedule:
+    - cron: '20 6 * * *'   # 06:20 UTC, kort na publish.yml (06:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  onderhoud:
+    runs-on: ubuntu-latest
+    environment: github-pages   # hergebruikt het bestaande ANTHROPIC_API_KEY-secret
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Git config
+        run: |
+          git config user.email "loam-codex[bot]@users.noreply.github.com"
+          git config user.name "LOAM Codex-onderhoud"
+
+      - name: Codex bijwerken
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/codex-onderhoud.py
