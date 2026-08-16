@@ -91,6 +91,7 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 055 (draft) | Vijf bloemen, bijen. Ontmoet Priya (Daniels vrouw). "The flowers are the point." |
 | 058 (draft) | Tweede supports. "Not yet" — herkent zijn eigen patroon. Daniel merkt vermoeidheid. |
 | 060 (draft) | Verwerkt Mara's vraag als spiegel van zijn eigen "was any of it mine?" |
+| 061 | Stille zondag, gewone tuinonderhoud. Meridian Street terloops genoemd (waar Mara woont). Tweede bloeigolf komt op. Formuleert voor zichzelf, niet hardop: "I don't think I'll see the flush after this one" — twijfelt of het waar is of vermoeidheid. |
 | 063 (draft) | Reageert op de publicatie van de onderzoeker: verdriet, niet opluchting. "I spent nine years being the only person who knew." |
 | 064 (draft) | Kan niet meer comfortabel knielen. Rekent de weken uit. Kiest bewust geen kliniek. |
 | 066 (draft) | Erkent tegenover Mara zijn eigen falen als contrast met haar moed. |
