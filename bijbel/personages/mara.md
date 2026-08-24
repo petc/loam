@@ -95,6 +95,7 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 062 (draft) | De onderzoeker publiceert. "It's out. It's small. It's real." |
 | 065 (draft) | **Formele waarschuwing op haar dossier.** "It has my name on it now." |
 | 066 (draft) | Vertelt Elias. Hij noemt haar de enige die bleef kijken. |
+| 069 (draft) | Diep gesprek — deel 1. Vraagt Elias wie hij was vóór het werk. Hij vertelt over zijn huwelijk en "someone I lost... to silence." Stopt zichzelf. Zij pusht niet, blijft. |
 | 070 (draft) | Begrijpt de tuin als Elias' enige eerlijke plek. Noteert: "He said 'someone I lost.' Not 'something.' Someone." |
 | 072 (draft) | Daniels zaak escaleert naar Secondary Determination. |
 | 075 (draft) | Confronteert Elias rechtstreeks. Hij erkent de pijn. |

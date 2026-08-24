@@ -8,6 +8,8 @@ Seventy-one years old. Former data architect. He helped design The Accord in its
 
 He left in 2038. He has not spoken publicly about why.
 
+He was married once, for a long time. She left before the work took everything from him — she saw where it was going, he says, before he let himself see it. He does not blame her, and has had a long time not to.
+
 His hands are always dirty. He grows things in a disused rail yard on the edge of the district. He calls it a garden. The city's systems don't register it.
 
 He moves carefully, as if he has learned to take up less space than he used to.
