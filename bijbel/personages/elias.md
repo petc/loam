@@ -102,6 +102,7 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 074 (draft) | Pijn wordt scherp en specifiek. Herkent zijn eigen "not yet"-patroon toegepast op zichzelf. |
 | 075 (draft) | Erkent de pijn hardop tegenover Mara. Geen kliniekbelofte. **Einde fase 4.** |
 | 076 (draft) | Gaat naar de kliniek, alleen. Denkt voor het eerst bewust en volledig aan Lena bij naam. |
+| 077 (draft) | Mara-POV. De Whitlocks afgewezen. Elias aan de bank, niet aan het werk — hij draagt iets onder zijn verdriet (de nog niet gedeelde diagnose-onzekerheid). "It shouldn't be a letter alone." Ze brengen de brief samen. |
 | 078 (draft) | **Diagnose: een massa, opereerbaar, percentages slechter door het uitstel.** |
 | 079 (draft) | Vertelt Mara. Ze is boos en blijft. |
 | 080 (draft) | Eerste consult gepland. Werkt met Daniel in de tuin. "There's someone" — nog geen naam. |
