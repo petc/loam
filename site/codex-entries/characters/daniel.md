@@ -11,3 +11,5 @@ When the corridor's infrastructure review notice goes up, he doesn't know what t
 He brings neighbours facing the same notice. Between them, they fill out what the process allows.
 
 Weeks later, a preliminary response arrives: not a yes, not a no, still under consideration — but worded specifically enough that Elias reads it as a sign someone actually read the submission. Slow, by design. Movement, all the same.
+
+The secondary determination, when it lands, is upheld in part: his residency is extended pending the full corridor review, relocation offered but not required. Not a full acquittal — the review still hangs over everything — but the first result all spring that doesn't end in the same flat administrative no. He and Priya get to stay, for a "now" with no fixed edge to it. He credits Elias for teaching him what to write.
