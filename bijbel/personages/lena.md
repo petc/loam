@@ -34,4 +34,10 @@ Of: Lena duikt op in Mara's werkdata. Mara verifieert dossiers. Lena Voss, Secto
 
 ## Verschijningen
 
-*(wordt aangevuld)*
+| Fragment | Moment |
+|----------|--------|
+| 050 (draft) | Naam verschijnt in Mara's data — cross-divisie clearance-audit, Sector 2, "systems integration architect". Geen flag, geen bewuste connectie. |
+| 085 (draft) | **Elias vertelt Mara over Lena — de vader-dochterconnectie wordt voor het eerst expliciet publiek.** Zijn achternaam (Voss) valt voor het eerst hardop; Mara legt de connectie met dag 50. Lena zelf nog steeds niet fysiek in beeld. |
+| 091 (draft) | (buiten het bereik dat nu live is) Pakketje afgeleverd 24 juni, geen reactie. |
+
+*Lena verschijnt nooit fysiek in beeld — bewuste keuze.*
