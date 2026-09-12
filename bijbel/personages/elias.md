@@ -110,6 +110,7 @@ Elias heeft de wereld helpen bouwen die hem kapotmaakte. Dat is geen metafoor �
 | 084 (draft) | Beslist over Lena: een zaad en een ongetekend kaartje, geen naam, geen retouradres. |
 | 085 (draft) | **Vertelt Mara over Lena.** Zijn achternaam (Voss) valt voor het eerst hardop. |
 | 087 (draft) | Verstuurt het pakketje via Daniel/Sector 4. |
+| 088 (draft) | Mara-POV. Beweegt voorzichtiger dan een maand geleden, maar werkt door. Meldt Mara dat hij het pakketje vrijdag via Daniel/Sector 4 heeft verstuurd — "emptied, a little. In a good way, mostly." Benoemt Mara's dataverlies als "the same mechanism, applied to information instead of infrastructure." Nog geen slooporder, maar corridor review sluit eind juni: "I don't know how much longer 'yet' holds." |
 | 089 (draft) | **Remediatiekennisgeving aan het hek. Dertig dagen.** Vertelt het Mara meteen — geen "not yet" meer. |
 | 091 (draft) | Bevestigt: pakketje afgeleverd 24 juni, geen reactie. "It might matter and it might not." |
 | 093 (draft) | Sloopploeg arriveert. Vraagt de foreman de tuin te noteren. |

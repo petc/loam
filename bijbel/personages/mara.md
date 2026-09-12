@@ -106,6 +106,7 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 083 (draft) | Herplaatsing bevestigd: Regional Data Standards, 14 dagen. |
 | 085 (draft) | Hoort over Lena. Legt zelf de connectie met de naam uit dag 50. |
 | 086 (draft) | Laatste dag oude functie. Sector 9 "subtiel weggevallen" uit haar zicht. |
+| 088 (draft) | Twee weken in Regional Data Standards — mist de "ache" van het oude werk (de leegte voelt als amputatie, niet opluchting). Zondagbezoek aan de tuin: Elias meldt dat hij het pakketje voor Lena vrijdag via Daniel/Sector 4 heeft verstuurd. Hij benoemt haar dataverlies als "the same mechanism, applied to information instead of infrastructure." Meldt: nog geen slooporder, maar de corridor review sluit eind juni. Ze neemt zijn hand. |
 | 090 (draft) | Verwerkt de remediatiekennisgeving samen met Elias. "We use the thirty days." |
 | 092 (draft) | Laatste volle dag — oogst met Daniel en Priya. |
 | 093 (draft) | Komt erbij als de sloopploeg arriveert. |
