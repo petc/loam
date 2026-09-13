@@ -8,7 +8,7 @@ De tuin bestaat niet officieel. Ze staat niet op de bouwplannen die The Accord b
 
 ## Fysiek
 
-**Locatie:** een afgeschreven spoorwegterrein in Sector 9. The Accord's systeem registreert het perceel als "unclassified infrastructure — legacy rail, decommissioned, remediation status unknown."
+**Locatie:** een afgeschreven spoorwegterrein in Sector 9. The Accord's systeem registreert het perceel als "unclassified infrastructure — legacy rail, decommissioned, remediation status unknown." Het perceelnummer is *9-R-114* (dag 089).
 
 **Afmeting:** circa 40 bij 20 meter. Elias heeft het in zijn tweede jaar opgemeten, passen tellend in oktober met de kou uit het noorden.
 
@@ -90,3 +90,4 @@ Voor het verhaal: de tuin is geen veilige plek. Ze is kwetsbaar. Ze kan gevonden
 | 028 | Uiensets geplant. |
 | 030 | Zoete erwten hebben ranken — testen de draad. |
 | 032 | Zoete erwten 12cm, eerste echte blaadjes. |
+| 089 (draft) | **Remediatiekennisgeving hangt aan het hek zelf** — geadresseerd aan het perceel (*9-R-114*), niet aan een persoon. Clearance no earlier than dertig dagen, Northern Expansion Priority Corridor framework, geen relocation assistance. Eerste keer dat The Accord de tuin rechtstreeks aanschrijft. |
