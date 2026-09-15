@@ -1,6 +1,6 @@
 # Intrige: Lena — waar is ze, en wat als ze het weet?
 
-**Fase:** 🔥 escalerend (t/m dag 87 — connectie expliciet onthuld dag 85; Elias heeft het pakketje nu daadwerkelijk verstuurd dag 87; resolutie — aflevering + uitblijvende reactie — volgt in dag 89-91, nog niet live)
+**Fase:** 🍂 resolutie (t/m dag 91 — connectie expliciet onthuld dag 85; pakketje verstuurd dag 87; afgeleverd 24 juni, bevestiging gezien dag 91; geen reactie — bewust onopgelost)
 
 ## Kern
 
@@ -24,17 +24,18 @@ Ergens in de tuin is iets wat van Lena is, of voor haar bedoeld is. Een plantje 
 - **Fase 4 (~dag 69):** Elias vertelt Mara iets over zijn leven vóór de tuin — niet het werk, maar wat hij verloor. Lena wordt *bijna* bij naam genoemd ("someone I lost... to silence"), maar niet met naam.
 - **Dag 84 (gedaan):** Elias beslist over Lena — geen telefoontje, geen naam: een zaad uit Owens pot en een ongetekend kaartje.
 - **Dag 85 (gedaan):** **Elias vertelt Mara expliciet dat Lena zijn dochter is.** Zijn achternaam (Voss) valt voor het eerst hardop tussen personages; Mara legt zelf de connectie met de audit van dag 50. De vader-dochterconnectie is vanaf hier publiek in de tekst. Elias kondigt aan dat hij haar iets zal sturen.
-- **Dag 87 (gedaan — nu live):** Elias verstuurt het pakketje daadwerkelijk, indirect via Daniel (post vanaf een balie in Sector 4, om elk spoor terug naar het spoorwegterrein te vermijden). Daniel helpt zonder de volledige reden te kennen. Elias' behandeling is intussen begonnen (eerste consult drie dagen eerder). Hij laat zich bewust niet toe Lena's reactie in detail te verbeelden.
-- **Fase 5 (dag 89-91, nog niet live):** Het pakketje wordt afgeleverd (24 juni); er komt geen reactie binnen het verhaal (bewust onopgelost).
+- **Dag 87 (gedaan):** Elias verstuurt het pakketje daadwerkelijk, indirect via Daniel (post vanaf een balie in Sector 4, om elk spoor terug naar het spoorwegterrein te vermijden). Daniel helpt zonder de volledige reden te kennen. Elias' behandeling is intussen begonnen (eerste consult drie dagen eerder). Hij laat zich bewust niet toe Lena's reactie in detail te verbeelden.
+- **Dag 91 (gedaan — nu live):** Elias controleert via één betrouwbaar publiek kanaal de afleverbevestiging: *Delivered. June 24. Signature not required.* Het pakketje bereikte haar negen dagen eerder. Er is geen reactie — hij liet bewust geen weg open waarlangs die hem kon bereiken ("a door opened exactly wide enough to let something out, and deliberately too narrow for anything to come back through it"). Hij besluit niet opnieuw te controleren. "It might matter and it might not" — echo/payoff van dag 32. **Resolutie: het pakketje is afgeleverd, de reactie blijft bewust onopgelost.**
 
-## Wat nu publiek is (t/m dag 87)
+## Wat nu publiek is (t/m dag 91)
 
 - Lena Voss is Elias's dochter (dag 85, expliciet)
 - Ze gelooft dat hij dood is sinds 2041 (dag 85)
-- Elias's achternaam "Voss" is nu hardop gevallen tussen personages (dag 85)
+- Elias's achternaam "Voss" is hardop gevallen tussen personages (dag 85)
 - Mara heeft de connectie met dag 50 zelf gelegd
-- Elias heeft het pakketje (zaad + ongetekend kaartje) nu daadwerkelijk verstuurd, anoniem, via Daniel/Sector 4 (dag 87)
+- Elias heeft het pakketje (zaad + ongetekend kaartje) daadwerkelijk verstuurd, anoniem, via Daniel/Sector 4 (dag 87)
+- Het pakketje is afgeleverd op 24 juni, bevestigd op dag 91; er is bewust geen weg voor een antwoord opengelaten, en er komt geen reactie (dag 91)
 
-## Wat nog niet publiek is (na dag 87)
+## Wat bewust onopgelost blijft (na dag 91)
 
-- Of het pakketje aankomt en of Lena reageert (dag 89-91, nog niet live) — bij het volgende codex-onderhoud pas beoordelen
+- Of Lena het kaartje opende, geloofde, of ooit reageert — het verhaal laat dit bewust open (past bij "hoop... klein, fragiel, niet beloond"). Er komt geen verdere onthulling binnen dag 1-95.
