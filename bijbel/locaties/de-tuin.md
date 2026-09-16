@@ -63,7 +63,7 @@ Voor het verhaal: de tuin is geen veilige plek. Ze is kwetsbaar. Ze kan gevonden
 
 - **Zoete erwten (Lathyrus odoratus):** gebracht door Mara op 19 maart 2047, zonder woorden. Jaarlijks. Bloeien juni–augustus. Zijn er niet meer in november.
 - **Bronzen venkel:** het eerste wat Mara vroeg naar. "What is that?"
-- **Klimroos (onbekend ras):** gevonden, weggegooid door iemand anders, geplant zonder het etiket te lezen. Gaat waar hij wil gaan.
+- **Klimroos (onbekend ras):** gevonden, weggegooid door iemand anders, geplant zonder het etiket te lezen. Gaat waar hij wil gaan. Stekken meegenomen naar Daniels strook grond (dag 092).
 - **Owen's zaadjes (glazen pot, zonder etiket):** gevonden in de schuur na Owens dood. Elias plant ze elk jaar. Nog niet geïdentificeerd.
 - **[GEPLANT — nog niet in fragmenten]:** ergens in de tuin is iets wat van Lena is, of voor haar bedoeld. Een zaad in een flaconnetje met haar geboortejaar (2003) erop. Mara vindt dit op een moment dat ze ernaar vraagt.
 
@@ -91,3 +91,4 @@ Voor het verhaal: de tuin is geen veilige plek. Ze is kwetsbaar. Ze kan gevonden
 | 030 | Zoete erwten hebben ranken — testen de draad. |
 | 032 | Zoete erwten 12cm, eerste echte blaadjes. |
 | 089 (draft) | **Remediatiekennisgeving hangt aan het hek zelf** — geadresseerd aan het perceel (*9-R-114*), niet aan een persoon. Clearance no earlier than dertig dagen, Northern Expansion Priority Corridor framework, geen relocation assistance. Eerste keer dat The Accord de tuin rechtstreeks aanschrijft. |
+| 092 (draft) | Laatste volle dag dat de tuin er als zichzelf uitziet. Elias, Mara, Daniel en Priya oogsten en bewaren zaad: 26 variëteiten, verdeeld over twee blikken (Elias + Mara). Stekken van de klimroos en overplantbare kruiden/calendula gaan naar Daniels strook grond. De bedden blijven aan het eind "cleared, deliberate" achter — een vertrek, geen verwaarlozing. |
