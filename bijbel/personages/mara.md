@@ -110,5 +110,6 @@ Mara is geboren in de wereld die The Contraction achterliet. Ze kent niets ander
 | 090 (draft) | Verwerkt de remediatiekennisgeving samen met Elias. "We use the thirty days." |
 | 092 (draft) | Laatste volle dag — oogst met Daniel en Priya. |
 | 093 (draft) | Komt erbij als de sloopploeg arriveert. |
+| 094 (draft) | Loopt zwijgend naast Elias tijdens zijn laatste wandeling door de tuin. Daniel en Priya wachten aan het hek. |
 
 **Notitieboek:** Mara schrijft digitaal van beroep — maar begint in dag 27 een fysiek notitieboek (bewuste keuze: ze beseft dat digitale documenten gevolgd worden). Dit is een karakter-ommezwaai die verankerd moet blijven.
